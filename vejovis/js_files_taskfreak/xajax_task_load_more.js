@@ -1,0 +1,1 @@
+function xajax_task_load_more(){return xajax.call("task_load_more", arguments, 1);}

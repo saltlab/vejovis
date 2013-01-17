@@ -1,0 +1,38 @@
+
+
+Iteration number: 166
+Successes So Far: 0
+Failures So Far: 0
+Activated So Far: 0
+Injected So Far: 166
+
+
+Iteration number: 167
+Successes So Far: 0
+Failures So Far: 0
+Activated So Far: 0
+Injected So Far: 167
+Fix Class: NEAR_MATCH_TREE
+Number of Fix Suggestions: 1
+
+
+Iteration number: 168
+Successes So Far: 1
+Failures So Far: 0
+Activated So Far: 1
+Injected So Far: 168
+
+
+Iteration number: 169
+Successes So Far: 1
+Failures So Far: 0
+Activated So Far: 1
+Injected So Far: 169
+Fix Class: NUMBER_SUFFIX_MOD
+Number of Fix Suggestions: 2
+
+
+Total Successes: 2
+Total Failures: 0
+Total Activated: 2
+Total Injected: 180

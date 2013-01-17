@@ -1,0 +1,21 @@
+
+
+Iteration number: 149
+Successes So Far: 0
+Failures So Far: 0
+Activated So Far: 0
+Injected So Far: 149
+
+
+Iteration number: 150
+Successes So Far: 0
+Failures So Far: 0
+Activated So Far: 0
+Injected So Far: 150
+
+
+Iteration number: 151
+Successes So Far: 0
+Failures So Far: 0
+Activated So Far: 0
+Injected So Far: 151

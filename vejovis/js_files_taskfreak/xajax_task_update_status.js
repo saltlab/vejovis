@@ -1,0 +1,1 @@
+function xajax_task_update_status(){return xajax.call("task_update_status", arguments, 1);}

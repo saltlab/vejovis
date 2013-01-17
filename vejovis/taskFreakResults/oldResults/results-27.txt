@@ -1,0 +1,183 @@
+
+
+Iteration number: 274
+Successes So Far: 0
+Failures So Far: 0
+Activated So Far: 0
+Injected So Far: 274
+Number of Fix Suggestions: 1
+
+
+Iteration number: 275
+Successes So Far: 1
+Failures So Far: 0
+Activated So Far: 1
+Injected So Far: 275
+Number of Fix Suggestions: 1
+
+
+Iteration number: 276
+Successes So Far: 2
+Failures So Far: 0
+Activated So Far: 2
+Injected So Far: 276
+Number of Fix Suggestions: 1
+
+
+Iteration number: 277
+Successes So Far: 3
+Failures So Far: 0
+Activated So Far: 3
+Injected So Far: 277
+Number of Fix Suggestions: 1
+
+
+Iteration number: 278
+Successes So Far: 4
+Failures So Far: 0
+Activated So Far: 4
+Injected So Far: 278
+Number of Fix Suggestions: 1
+
+
+Iteration number: 279
+Successes So Far: 5
+Failures So Far: 0
+Activated So Far: 5
+Injected So Far: 279
+Number of Fix Suggestions: 1
+
+
+Iteration number: 280
+Successes So Far: 6
+Failures So Far: 0
+Activated So Far: 6
+Injected So Far: 280
+Number of Fix Suggestions: 1
+
+
+Iteration number: 281
+Successes So Far: 7
+Failures So Far: 0
+Activated So Far: 7
+Injected So Far: 281
+Number of Fix Suggestions: 1
+
+
+Iteration number: 282
+Successes So Far: 8
+Failures So Far: 0
+Activated So Far: 8
+Injected So Far: 282
+Number of Fix Suggestions: 1
+
+
+Iteration number: 283
+Successes So Far: 9
+Failures So Far: 0
+Activated So Far: 9
+Injected So Far: 283
+Number of Fix Suggestions: 1
+
+
+Iteration number: 284
+Successes So Far: 10
+Failures So Far: 0
+Activated So Far: 10
+Injected So Far: 284
+Number of Fix Suggestions: 1
+
+
+Iteration number: 285
+Successes So Far: 11
+Failures So Far: 0
+Activated So Far: 11
+Injected So Far: 285
+Number of Fix Suggestions: 1
+
+
+Iteration number: 286
+Successes So Far: 12
+Failures So Far: 0
+Activated So Far: 12
+Injected So Far: 286
+Number of Fix Suggestions: 1
+
+
+Iteration number: 287
+Successes So Far: 13
+Failures So Far: 0
+Activated So Far: 13
+Injected So Far: 287
+Number of Fix Suggestions: 1
+
+
+Iteration number: 288
+Successes So Far: 14
+Failures So Far: 0
+Activated So Far: 14
+Injected So Far: 288
+Number of Fix Suggestions: 1
+
+
+Iteration number: 289
+Successes So Far: 15
+Failures So Far: 0
+Activated So Far: 15
+Injected So Far: 289
+Number of Fix Suggestions: 1
+
+
+Iteration number: 290
+Successes So Far: 16
+Failures So Far: 0
+Activated So Far: 16
+Injected So Far: 290
+Number of Fix Suggestions: 1
+
+
+Iteration number: 291
+Successes So Far: 17
+Failures So Far: 0
+Activated So Far: 17
+Injected So Far: 291
+Number of Fix Suggestions: 1
+
+
+Iteration number: 292
+Successes So Far: 18
+Failures So Far: 0
+Activated So Far: 18
+Injected So Far: 292
+Number of Fix Suggestions: 1
+
+
+Iteration number: 293
+Successes So Far: 19
+Failures So Far: 0
+Activated So Far: 19
+Injected So Far: 293
+Number of Fix Suggestions: 1
+
+
+Iteration number: 294
+Successes So Far: 20
+Failures So Far: 0
+Activated So Far: 20
+Injected So Far: 294
+Number of Fix Suggestions: 1
+
+
+Iteration number: 295
+Successes So Far: 21
+Failures So Far: 0
+Activated So Far: 21
+Injected So Far: 295
+Number of Fix Suggestions: 1
+
+
+Iteration number: 296
+Successes So Far: 22
+Failures So Far: 0
+Activated So Far: 22
+Injected So Far: 296

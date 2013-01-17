@@ -1,0 +1,37 @@
+div.domcontainer{
+	float: left;
+	width: 49%;
+}
+div.dom{
+	height: 400px;
+	overflow: scroll;
+	border: 1px solid black;
+	margin-right: 20px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+img.screenshot{
+	width: 400px;
+	border: 1px solid black;
+}
+div.errorcontainer{
+	padding-left: 20px;
+}
+table.highlights{
+	border: 1px solid black;
+	cell-spacing: 0px;
+	cell-padding: 5px;
+}
+table.highlights td, th{
+	border-bottom: 1px solid #808080;
+	text-align: left;
+}
+
+body{
+	margin: 20px;
+	padding: 0px;
+	background: white;
+	color: black;
+	font-family: tahoma, Arial;
+	font-size: 8pt;
+}

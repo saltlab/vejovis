@@ -1,0 +1,31 @@
+
+
+Iteration number: 151
+Successes So Far: 0
+Failures So Far: 0
+Activated So Far: 0
+Injected So Far: 151
+
+
+Iteration number: 152
+Successes So Far: 0
+Failures So Far: 0
+Activated So Far: 0
+Injected So Far: 152
+Fix Class: NEAR_MATCH_TREE
+Number of Fix Suggestions: 1
+
+
+Iteration number: 153
+Successes So Far: 1
+Failures So Far: 0
+Activated So Far: 1
+Injected So Far: 153
+Number of Fix Suggestions: 0
+
+
+Iteration number: 154
+Successes So Far: 1
+Failures So Far: 1
+Activated So Far: 2
+Injected So Far: 154

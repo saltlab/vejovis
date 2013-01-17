@@ -1,0 +1,117 @@
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var x = document.getElementById("mainChoices");
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var x = document.getElementById("mainChoices");
+
+OUTPUT 5: Modified source code of the line that has been mutated: var x = document.getElementById("AWRcspzLZzr");
+
+OUTPUT 6: Name of the function containing the mutated line: checkIfRight
+OUTPUT 7: MODIFY, "mainChoices", "AWRcspzLZzr", checkIfRight
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var x = document.getElementById("mainChoices");
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var x = document.getElementById("mainChoices");
+
+OUTPUT 5: Modified source code of the line that has been mutated: var x = document.getElementById("mainChcioes");
+
+OUTPUT 6: Name of the function containing the mutated line: checkIfRight
+OUTPUT 7: MODIFY, "mainChoices", "mainChcioes", checkIfRight
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 11
+OUTPUT 2: Original source code of the getElementById Line: var msgDiv = document.getElementById("mainResults" + msg + index);
+
+OUTPUT 3: Line no. mutated Line: 11
+OUTPUT 4: Original source code of mutated Line: var msgDiv = document.getElementById("mainResults" + msg + index);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var msgDiv = document.getElementById("mainResulst" + msg + index);
+
+OUTPUT 6: Name of the function containing the mutated line: checkIfRight
+OUTPUT 7: MODIFY, "mainResults" , "mainResulst" , checkIfRight
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var introMsg = document.getElementById("mainMessage");
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var introMsg = document.getElementById("mainMessage");
+
+OUTPUT 5: Modified source code of the line that has been mutated: var introMsg = document.getElementById("mainMessagetHr");
+
+OUTPUT 6: Name of the function containing the mutated line: generateTriviaQuestion
+OUTPUT 7: MODIFY, "mainMessage", "mainMessagetHr", generateTriviaQuestion
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var introMsg = document.getElementById("mainMessage");
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var introMsg = document.getElementById("mainMessage");
+
+OUTPUT 5: Modified source code of the line that has been mutated: var introMsg = document.getElementById("sZqOaBuBjmainMessage");
+
+OUTPUT 6: Name of the function containing the mutated line: generateTriviaQuestion
+OUTPUT 7: MODIFY, "mainMessage", "sZqOaBuBjmainMessage", generateTriviaQuestion
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var introMsg = document.getElementById("mainMessage");
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var introMsg = document.getElementById("mainMessage");
+
+OUTPUT 5: Modified source code of the line that has been mutated: var introMsg = document.getElementById("mainPbBoRyEiMessage");
+
+OUTPUT 6: Name of the function containing the mutated line: generateTriviaQuestion
+OUTPUT 7: MODIFY, "mainMessage", "mainPbBoRyEiMessage", generateTriviaQuestion
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var introMsg = document.getElementById("mainMessage");
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var introMsg = document.getElementById("mainMessage");
+
+OUTPUT 5: Modified source code of the line that has been mutated: var introMsg = document.getElementById("mainMessa");
+
+OUTPUT 6: Name of the function containing the mutated line: generateTriviaQuestion
+OUTPUT 7: MODIFY, "mainMessage", "mainMessa", generateTriviaQuestion
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var question = document.getElementById("mainQuestion");
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var question = document.getElementById("mainQuestion");
+
+OUTPUT 5: Modified source code of the line that has been mutated: var question = document.getElementById("maintion");
+
+OUTPUT 6: Name of the function containing the mutated line: generateTriviaQuestion
+OUTPUT 7: MODIFY, "mainQuestion", "maintion", generateTriviaQuestion
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: var submitButton = document.getElementById("mainAnswerSubmit");
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: var submitButton = document.getElementById("mainAnswerSubmit");
+
+OUTPUT 5: Modified source code of the line that has been mutated: var submitButton = document.getElementById("mainAAAnswerSubmit");
+
+OUTPUT 6: Name of the function containing the mutated line: generateTriviaQuestion
+OUTPUT 7: MODIFY, "mainAnswerSubmit", "mainAAAnswerSubmit", generateTriviaQuestion
+-----------------------------------------------------------------------------------------------------------

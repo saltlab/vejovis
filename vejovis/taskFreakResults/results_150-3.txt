@@ -1,0 +1,169 @@
+
+
+Iteration number: 46
+Successes So Far: 0
+Failures So Far: 0
+Activated So Far: 0
+Injected So Far: 46
+Fix Class: SAME_PREFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 47
+Successes So Far: 1
+Failures So Far: 0
+Activated So Far: 1
+Injected So Far: 47
+Fix Class: SAME_PREFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 48
+Successes So Far: 2
+Failures So Far: 0
+Activated So Far: 2
+Injected So Far: 48
+Fix Class: SAME_PREFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 49
+Successes So Far: 3
+Failures So Far: 0
+Activated So Far: 3
+Injected So Far: 49
+Fix Class: SAME_PREFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 50
+Successes So Far: 4
+Failures So Far: 0
+Activated So Far: 4
+Injected So Far: 50
+Fix Class: SAME_PREFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 51
+Successes So Far: 5
+Failures So Far: 0
+Activated So Far: 5
+Injected So Far: 51
+Fix Class: NEAR_MATCH_DL
+Number of Fix Suggestions: 1
+
+
+Iteration number: 52
+Successes So Far: 6
+Failures So Far: 0
+Activated So Far: 6
+Injected So Far: 52
+Fix Class: SAME_PREFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 53
+Successes So Far: 7
+Failures So Far: 0
+Activated So Far: 7
+Injected So Far: 53
+Fix Class: SAME_PREFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 54
+Successes So Far: 8
+Failures So Far: 0
+Activated So Far: 8
+Injected So Far: 54
+Fix Class: SAME_PREFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 55
+Successes So Far: 9
+Failures So Far: 0
+Activated So Far: 9
+Injected So Far: 55
+Fix Class: SAME_PREFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 56
+Successes So Far: 10
+Failures So Far: 0
+Activated So Far: 10
+Injected So Far: 56
+Fix Class: SAME_PREFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 57
+Successes So Far: 11
+Failures So Far: 0
+Activated So Far: 11
+Injected So Far: 57
+Fix Class: SAME_PREFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 58
+Successes So Far: 12
+Failures So Far: 0
+Activated So Far: 12
+Injected So Far: 58
+Fix Class: SAME_PREFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 59
+Successes So Far: 13
+Failures So Far: 0
+Activated So Far: 13
+Injected So Far: 59
+Fix Class: SAME_PREFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 60
+Successes So Far: 14
+Failures So Far: 0
+Activated So Far: 14
+Injected So Far: 60
+Fix Class: SAME_PREFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 61
+Successes So Far: 15
+Failures So Far: 0
+Activated So Far: 15
+Injected So Far: 61
+Fix Class: SAME_PREFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 62
+Successes So Far: 16
+Failures So Far: 0
+Activated So Far: 16
+Injected So Far: 62
+Fix Class: SAME_PREFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 63
+Successes So Far: 17
+Failures So Far: 0
+Activated So Far: 17
+Injected So Far: 63
+Fix Class: SAME_PREFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 64
+Successes So Far: 18
+Failures So Far: 0
+Activated So Far: 18
+Injected So Far: 64

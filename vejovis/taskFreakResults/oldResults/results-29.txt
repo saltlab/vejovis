@@ -1,0 +1,71 @@
+
+
+Iteration number: 327
+Successes So Far: 0
+Failures So Far: 0
+Activated So Far: 0
+Injected So Far: 327
+Number of Fix Suggestions: 1
+
+
+Iteration number: 328
+Successes So Far: 1
+Failures So Far: 0
+Activated So Far: 1
+Injected So Far: 328
+Number of Fix Suggestions: 1
+
+
+Iteration number: 329
+Successes So Far: 2
+Failures So Far: 0
+Activated So Far: 2
+Injected So Far: 329
+Number of Fix Suggestions: 1
+
+
+Iteration number: 330
+Successes So Far: 3
+Failures So Far: 0
+Activated So Far: 3
+Injected So Far: 330
+Number of Fix Suggestions: 1
+
+
+Iteration number: 331
+Successes So Far: 4
+Failures So Far: 0
+Activated So Far: 4
+Injected So Far: 331
+Number of Fix Suggestions: 1
+
+
+Iteration number: 332
+Successes So Far: 5
+Failures So Far: 0
+Activated So Far: 5
+Injected So Far: 332
+Number of Fix Suggestions: 1
+
+
+Iteration number: 333
+Successes So Far: 6
+Failures So Far: 0
+Activated So Far: 6
+Injected So Far: 333
+Number of Fix Suggestions: 1
+
+
+Iteration number: 334
+Successes So Far: 7
+Failures So Far: 0
+Activated So Far: 7
+Injected So Far: 334
+Number of Fix Suggestions: 1
+
+
+Iteration number: 335
+Successes So Far: 8
+Failures So Far: 0
+Activated So Far: 8
+Injected So Far: 335

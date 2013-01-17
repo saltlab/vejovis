@@ -1,0 +1,1 @@
+function xajax_task_update_full(){return xajax.call("task_update_full", arguments, 1);}

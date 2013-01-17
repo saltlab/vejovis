@@ -1,0 +1,143 @@
+
+
+Iteration number: 215
+Successes So Far: 0
+Failures So Far: 0
+Activated So Far: 0
+Injected So Far: 215
+Number of Fix Suggestions: 1
+
+
+Iteration number: 216
+Successes So Far: 1
+Failures So Far: 0
+Activated So Far: 1
+Injected So Far: 216
+Number of Fix Suggestions: 1
+
+
+Iteration number: 217
+Successes So Far: 2
+Failures So Far: 0
+Activated So Far: 2
+Injected So Far: 217
+Number of Fix Suggestions: 1
+
+
+Iteration number: 218
+Successes So Far: 3
+Failures So Far: 0
+Activated So Far: 3
+Injected So Far: 218
+Number of Fix Suggestions: 1
+
+
+Iteration number: 219
+Successes So Far: 4
+Failures So Far: 0
+Activated So Far: 4
+Injected So Far: 219
+Number of Fix Suggestions: 1
+
+
+Iteration number: 220
+Successes So Far: 5
+Failures So Far: 0
+Activated So Far: 5
+Injected So Far: 220
+Number of Fix Suggestions: 1
+
+
+Iteration number: 221
+Successes So Far: 6
+Failures So Far: 0
+Activated So Far: 6
+Injected So Far: 221
+Number of Fix Suggestions: 1
+
+
+Iteration number: 222
+Successes So Far: 7
+Failures So Far: 0
+Activated So Far: 7
+Injected So Far: 222
+Number of Fix Suggestions: 1
+
+
+Iteration number: 223
+Successes So Far: 8
+Failures So Far: 0
+Activated So Far: 8
+Injected So Far: 223
+Number of Fix Suggestions: 1
+
+
+Iteration number: 224
+Successes So Far: 9
+Failures So Far: 0
+Activated So Far: 9
+Injected So Far: 224
+Number of Fix Suggestions: 1
+
+
+Iteration number: 225
+Successes So Far: 10
+Failures So Far: 0
+Activated So Far: 10
+Injected So Far: 225
+Number of Fix Suggestions: 1
+
+
+Iteration number: 226
+Successes So Far: 11
+Failures So Far: 0
+Activated So Far: 11
+Injected So Far: 226
+Number of Fix Suggestions: 1
+
+
+Iteration number: 227
+Successes So Far: 12
+Failures So Far: 0
+Activated So Far: 12
+Injected So Far: 227
+Number of Fix Suggestions: 1
+
+
+Iteration number: 228
+Successes So Far: 13
+Failures So Far: 0
+Activated So Far: 13
+Injected So Far: 228
+Number of Fix Suggestions: 1
+
+
+Iteration number: 229
+Successes So Far: 14
+Failures So Far: 0
+Activated So Far: 14
+Injected So Far: 229
+Number of Fix Suggestions: 1
+
+
+Iteration number: 230
+Successes So Far: 15
+Failures So Far: 0
+Activated So Far: 15
+Injected So Far: 230
+Number of Fix Suggestions: 1
+
+
+Iteration number: 231
+Successes So Far: 16
+Failures So Far: 0
+Activated So Far: 16
+Injected So Far: 231
+Number of Fix Suggestions: 1
+
+
+Iteration number: 232
+Successes So Far: 17
+Failures So Far: 0
+Activated So Far: 17
+Injected So Far: 232

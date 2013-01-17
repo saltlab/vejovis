@@ -1,0 +1,174 @@
+0    [main] INFO  com.crawljax.core.CrawljaxController  - Starting Crawljax...
+1    [main] INFO  com.crawljax.core.CrawljaxController  - Used plugins:
+29   [main] INFO  com.crawljax.core.plugin.CrawljaxPluginsUtil  - com.crawljax.plugins.crawloverview.CrawlOverview
+29   [main] INFO  com.crawljax.core.plugin.CrawljaxPluginsUtil  - com.crawljax.plugins.aji.executiontracer.JSExecutionTracer
+29   [main] INFO  com.crawljax.core.plugin.CrawljaxPluginsUtil  - com.crawljax.plugins.webscarabwrapper.WebScarabWrapper
+29   [main] INFO  com.crawljax.core.plugin.CrawljaxPluginsUtil  - Running ProxyServerPlugins...
+458  [main] INFO  com.crawljax.plugins.webscarabwrapper.WebScarabWrapper  - WebScarab proxy started
+459  [main] INFO  com.crawljax.core.CrawljaxController  - Embedded browser implementation: firefox
+459  [main] INFO  com.crawljax.core.CrawljaxController  - Number of threads: 1
+459  [main] INFO  com.crawljax.core.CrawljaxController  - Crawl depth: 0
+459  [main] INFO  com.crawljax.core.CrawljaxController  - Crawljax initialized!
+536  [main] INFO  com.crawljax.core.CrawljaxController  - Start crawling with 4 crawl elements
+559  [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CrawlerExecutor  - Starting new Crawler: Thread 1 Crawler 1 (initial)
+7613 [Thread-4] INFO  com.crawljax.core.plugin.CrawljaxPluginsUtil  - Running PreCrawlingPlugins...
+7627 [Thread-4] INFO  com.crawljax.core.plugin.CrawljaxPluginsUtil  - Running OnBrowserCreatedPlugins...
+7628 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.Crawler  - Loading Page http://www.nytimes.com/interactive/sports/football/20110108-nfl-feature.html?ref=sports
+8278 [Listener-127.0.0.1:1234-1] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/interactive/sports/football/20110108-nfl-feature.html?ref=sportsscript8
+8461 [Listener-127.0.0.1:1234-1] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/interactive/sports/football/20110108-nfl-feature.html?ref=sportsscript9
+8466 [Listener-127.0.0.1:1234-1] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/interactive/sports/football/20110108-nfl-feature.html?ref=sportsscript12
+8471 [Listener-127.0.0.1:1234-1] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/interactive/sports/football/20110108-nfl-feature.html?ref=sportsscript13
+8484 [Listener-127.0.0.1:1234-1] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/interactive/sports/football/20110108-nfl-feature.html?ref=sportsscript14
+8567 [Listener-127.0.0.1:1234-1] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/interactive/sports/football/20110108-nfl-feature.html?ref=sportsscript15
+8579 [Listener-127.0.0.1:1234-1] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/interactive/sports/football/20110108-nfl-feature.html?ref=sportsscript16
+8586 [Listener-127.0.0.1:1234-1] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/interactive/sports/football/20110108-nfl-feature.html?ref=sportsscript18
+8646 [Listener-127.0.0.1:1234-1] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/interactive/sports/football/20110108-nfl-feature.html?ref=sportsscript19
+8664 [Listener-127.0.0.1:1234-1] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/interactive/sports/football/20110108-nfl-feature.html?ref=sportsscript20
+9126 [Listener-127.0.0.1:1234-4] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/common.js
+9255 [Listener-127.0.0.1:1234-7] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/util/tooltip.js
+9289 [Listener-127.0.0.1:1234-6] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/fileit.js
+9297 [Listener-127.0.0.1:1234-5] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/common/screen/DropDown.js
+9302 [Listener-127.0.0.1:1234-9] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/article/comments/crnrXHR.js
+9313 [Listener-127.0.0.1:1234-10] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/article/articleCommentCount.js
+9378 [Listener-127.0.0.1:1234-13] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/packages/js/multimedia/NYTFlashEmbed.js
+10025 [Listener-127.0.0.1:1234-8] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/article/articleShare.js
+10142 [Listener-127.0.0.1:1234-11] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/community/V3/getCommentCount.js
+10224 [Listener-127.0.0.1:1234-12] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/packages/js/multimedia/swfobject.js
+10785 [Listener-127.0.0.1:1234-31] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/mtr.js
+10846 [Listener-127.0.0.1:1234-33] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/lib/env.js
+10853 [Listener-127.0.0.1:1234-36] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/lib/NYTD/0.0.1/template.js
+10861 [Listener-127.0.0.1:1234-38] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/timespeople_1.5/lib/urilist.js
+10896 [Listener-127.0.0.1:1234-35] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/lib/scriptaculous/1.8.3/effects.js
+11158 [Listener-127.0.0.1:1234-32] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://meter-svc.nytimes.com:80/meter.js?url=http%3A%2F%2Fwww.nytimes.com%2Finteractive%2Fsports%2Ffootball%2F20110108-nfl-feature.html%3Fref%3Dsports&referer=&callback=b1307866661320
+11163 [Listener-127.0.0.1:1234-34] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/lib/prototype/1.7/prototype.js
+11427 [Listener-127.0.0.1:1234-39] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/timespeople/activities/1.6/boot.js
+11873 [Listener-127.0.0.1:1234-37] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/adx/googleads.js
+11979 [Listener-127.0.0.1:1234-40] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/timespeople/toolbar/1.7/boot.js
+12164 [Listener-127.0.0.1:1234-32] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/timespeople/toolbar/1.7/config/production.js
+12541 [Listener-127.0.0.1:1234-41] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/timespeople/toolbar/1.7/toolbar.build.min.js
+13664 [Listener-127.0.0.1:1234-43] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/timespeople/activities/1.6/activities.build.js
+15748 [Listener-127.0.0.1:1234-44] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/article/articleShareController.js
+16079 [Listener-127.0.0.1:1234-47] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/util/cookieValidator.js
+17047 [Listener-127.0.0.1:1234-46] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/article/articleShareLegacy.js
+18079 [Listener-127.0.0.1:1234-50] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://adserver.adtechus.com:80/addyn/3.0/5214.1/905167/0/225/ADTECH;cfp=1;rndc=130786666;loc=100;target=_blank;key=key1+key2+key3+key4;grp=883;misc=1307866667574;aduho=-420;rdclick=
+18271 [Listener-127.0.0.1:1234-51] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://ad.doubleclick.net:80/adj/cxm.olivemediaron/;IO=3252;LID=30;sz=728x90;click=http%3A//adserver.adtechus.com/adlink%2F5214%2F905167%2F0%2F225%2FAdId%3D1683504%3BBnId%3D1%3Bitime%3D866668811%3Bkey%3Dkey1%2Bkey2%2Bkey3%2Bkey4%3Blink%3D;ord=866668811?
+18353 [Listener-127.0.0.1:1234-51] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://s0.2mdn.net:80/879366/flashwrite_1_2.js
+19150 [Listener-127.0.0.1:1234-54] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://adserver.adtechus.com:80/addyn/3.0/5214.1/905163/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=883;misc=1307866669405;aduho=-420;rdclick=
+21619 [Listener-127.0.0.1:1234-57] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://ad.doubleclick.net:80/adj/N5409.276948.NYTIMES/B5353556.2;sz=300x250;click=http%3A//adserver.adtechus.com/adlink%2F5214%2F905163%2F0%2F170%2FAdId%3D1540160%3BBnId%3D1%3Bitime%3D866669116%3Bkey%3Dkey1%2Bkey2%2Bkey3%2Bkey4%3Blink%3D;ord=866669116?
+22644 [Listener-127.0.0.1:1234-56] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://amch.questionmarket.com:80/adsc/d901155/2/901195/randm.js
+22984 [Listener-127.0.0.1:1234-61] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/homepage/articleCommentCounts.js
+23340 [Listener-127.0.0.1:1234-59] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://amch.questionmarket.com:80/kcontent/662/ktag.js
+24872 [Listener-127.0.0.1:1234-64] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/analytics/trackingTags_v1.1.js
+25516 [Listener-127.0.0.1:1234-67] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/analytics/revenuescience.js
+25535 [Listener-127.0.0.1:1234-66] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/analytics/gw.js?csid=H07707
+26884 [Listener-127.0.0.1:1234-68] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://b.scorecardresearch.com:80/beacon.js
+26935 [Listener-127.0.0.1:1234-68] WARN  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Invalid operator exception catched. Not instrumenting code.
+26936 [Listener-127.0.0.1:1234-68] WARN  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Here is the corresponding buffer: 
+if(typeof COMSCORE=="undefined"){window.COMSCORE={}}if(typeof COMSCORE.Beacon=="undefined"){COMSCORE.Beacon={}}if(typeof _comscore!="object"){window._comscore=[]}COMSCORE.beacon=function(j){try{if(!j){return}var h=2.2,g=j.options||{},u={doc:g.doc||document,nav:g.nav||navigator,win:g.win||window},b=512,m=64,w="scorecardresearch",n=2147483647,f=(new Date()).getTime(),t=function(z){var A=encodeURIComponent||escape;return A(z)},p=function(e,z){if(z){e=e.substr(0,z)}return e},s=function(){return u.doc.location.protocol=="https:"},d=function(e){return typeof e=="undefined"},o=function(e,z){if(e==null){return""}return p(t(e),z)},a=function(e,z,B,A){return z!=null&&z.toString().length>0?[e,"=",A?p(z,B):o(z,B),"&"].join(""):""},v=function(e){return Math.round(Math.random()*(e||n))},y=function(){if(+j.c1!=2){return}if(/msie\s[^0-6]|firefox|chrome/i.test(u.nav.userAgent)){return}var e=k(w);if(g.fpc_optout){if(e){q(w,e,u.doc.domain,-1)}return"optout"}if(!u.nav.cookieEnabled){return"disabled"}if(!e){e=(function(){var D=function(G,F,E){F=G&&G[F]?G[F]:"-";return E?D(F,E):F},A=[D(u.win,"navigator","userAgent"),D(u.win,"screen","width"),D(u.win,"screen","height"),D(u.doc,"cookie"),D(u.doc,"referrer"),D(u.loc,"href"),D(u.win,"history","length")].join("-");var C=2166136261;for(var B=0,z=A.length;B<z;B++){C^=A.charCodeAt(B);C*=16777619}return[v()^C&n,v(),f].join("-")})();q(w,e,u.doc.domain);e=k(w)}return e},k=function(e){if(d(u.doc.cookie)||d(u.doc.cookie.match)){return}var z=u.doc.cookie.match("(?:^|;)\\s*"+e+"=([^;]*)");return z?z[1]:null},q=function(e,A,z,B){if(!A){return}B=B!=null?B:730;B*=86400000;u.doc.cookie=e+"="+A+"; domain=."+z+"; path=/; expires="+(new Date(f+B)).toGMTString()},c=function(e){if(+j.c1!=2){return}if(!e){return}if(g.force_script_extension||(e.width==2&&e.height>v(100))){var A=u.doc.createElement("script"),z=u.doc.getElementsByTagName("script")[0],B=[l.script_extension_url,"?",a("c2",j.c2)];B=B.join("").replace(/&$/,"");if(z){A.src=B;A.async=true;z.parentNode.insertBefore(A,z)}else{u.doc.write(unescape("%3Cscript src='"+B+"'%3E%3C/script%3E"))}}},l={beacon_url:(s()?"https://sb":"http://b")+".scorecardresearch.com/",script_extension_url:(s()?"https":"http")+"://app.scorecardresearch.com/s2e/invite"};if(g.dest){l.beacon_url=g.dest.beacon_url||l.beacon_url;l.script_extension_url=g.dest.script_extension_url||l.script_extension_url}var i=[l.beacon_url,"b?",a("c1",j.c1),a("c2",j.c2),a("rn",v()),a("c12",y()),a("c7",(function(){if(g.filter_urls){return}var e=u.doc.location.href,z=b;if(g.url_append){z=b-t(["?",g.url_append].join("")).length;e=o(e,z)+t([/\?/.test(e)?"&":"?",g.url_append].join(""))}else{e=o(e,b)}return e})(),b,true),a("c3",j.c3),a("c4",j.c4,b),a("c5",j.c5),a("c6",j.c6),a("c10",j.c10),a("c11",j.c11),a("c15",j.c15),a("c16",j.c16),a("c8",u.doc.title,m),a("c9",!g.filter_urls?u.doc.referrer:"",b),a("cv",h),a("cs","js"),a("r",j.r,b)];i=i.join("").replace(/&$/,"");i=i.length>2080?i.substr(0,2075)+"&ct=1":i;if(/(BlackBerry.*?\/([1-3]\.|4\.[0-5]))|OpenWeb/.test(u.nav.userAgent)){i=i.replace(/\/b\?/,"/p?");u.doc.write("<img src='"+i+"' />")}else{var x=new Image();x.onload=function(){c(this)};x.onerror=function(){c(this)};x.src=i}if(typeof g.subscribe=="function"){g.subscribe(i)}return i}catch(r){}};COMSCORE.purge=function(a){try{var c=[],f,b;a=a||_comscore;for(b=a.length-1;b>=0;b--){f=COMSCORE.beacon(a[b]);a.splice(b,1);if(f){c.push(f)}}return c}catch(d){}};COMSCORE.purge();
+
+
+
+
+
+
+
+
+
+26958 [Listener-127.0.0.1:1234-62] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://wt.o.nytimes.com:80/dcsym57yw10000s1s8g0boozt_9t1x/wtid.js
+28839 [Listener-127.0.0.1:1234-65] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/analytics/controller_v1.1.js
+34678 [Listener-127.0.0.1:1234-71] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Execution trace request http://www.nytimes.com:80/interactive/sports/football/20110108-nfl-feature.html?ref=sports?thisisanexecutiontracingcall
+34827 [Listener-127.0.0.1:1234-70] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/analytics/wtinit.js
+34835 [Listener-127.0.0.1:1234-71] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://graphics8.nytimes.com:80/js/app/analytics/wtbase.js
+35026 [Listener-127.0.0.1:1234-72] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://pix04.revsci.net:80/H07707/b3/0/3/0806180/554918162.js?D=DM_LOC%3Dhttp%253A%252F%252Fwww.nytimes.com%252Finteractive%252Fsports%252Ffootball%252F20110108-nfl-feature.html%253Fref%253Dsports%26DM_CAT%3DNYTimesglobal%2520%253E%2520Sports%2520%253E%2520Pro%2520Football%26DM_EOM%3D1&C=H07707
+37318 [Listener-127.0.0.1:1234-74] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Execution trace request http://www.nytimes.com:80/interactive/sports/football/20110108-nfl-feature.html?ref=sports?thisisanexecutiontracingcall
+84797 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.plugin.CrawljaxPluginsUtil  - Running OnUrlLoadPlugins...
+85344 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.plugin.CrawljaxPluginsUtil  - Running OnNewStatePlugins...
+86075 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Looking in state: index for candidate elements with 
+86172 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - TAG: A
+89092 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: A: name=top xpath /HTML[1]/BODY[1]/A[1] 
+89092 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: A: href=javascript:document.interactivefeedback.submit(); xpath /HTML[1]/BODY[1]/DIV[1]/DIV[2]/DIV[4]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[4]/DIV[1]/DIV[1]/SPAN[2]/FORM[1]/A[1] 
+89092 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: A: href=/interactive/sports/football/20110108-nfl-feature.html?ref=sports&pagewanted=all xpath /HTML[1]/BODY[1]/DIV[1]/DIV[2]/DIV[4]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[4]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/UL[1]/A[1] 
+89092 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: A: href=# xpath /HTML[1]/BODY[1]/DIV[1]/DIV[2]/DIV[4]/DIV[1]/DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[1]/LI[1]/A[1] 
+89092 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: A: href=# xpath /HTML[1]/BODY[1]/DIV[1]/DIV[2]/DIV[4]/DIV[1]/DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[1]/LI[2]/A[1] 
+89092 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: A: href=# xpath /HTML[1]/BODY[1]/DIV[1]/DIV[2]/DIV[4]/DIV[1]/DIV[2]/DIV[3]/DIV[1]/DIV[1]/UL[1]/LI[3]/A[1] 
+89092 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found new candidate element: A: href=#top xpath /HTML[1]/BODY[1]/DIV[1]/DIV[2]/DIV[5]/UL[1]/LI[17]/A[1] 
+89092 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - TAG: BUTTON
+89093 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - TAG: INPUT: type="submit" 
+89117 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - TAG: INPUT: type="button" 
+89136 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CandidateElementExtractor  - Found 7 new candidate elements to analyze!
+89137 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.Crawler  - Starting preStateCrawlingPlugins...
+89137 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.plugin.CrawljaxPluginsUtil  - Running PreStateCrawlingPlugins...
+90007 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.plugins.aji.executiontracer.JSExecutionTracer  - Reading execution trace
+90007 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.plugins.aji.executiontracer.JSExecutionTracer  - Parsing JavaScript execution trace
+90205 [Listener-127.0.0.1:1234-74] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Execution trace request http://www.nytimes.com:80/interactive/sports/football/20110108-nfl-feature.html?ref=sports?thisisanexecutiontracingcall
+91435 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.plugins.aji.executiontracer.JSExecutionTracer  - Saved execution trace as ~/jsassertions/executiontrace/jsexecutiontrace-index20110612011900.dtrace
+91843 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.Crawler  - Executing click on element: A: name="top" click xpath /HTML[1]/BODY[1]/A[1]; State: index
+92132 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.browser.WebDriverBackedEmbeddedBrowser  - Element not visible, so cannot be clicked: A 
+92132 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.plugin.CrawljaxPluginsUtil  - Running OnFireEventFailedPlugins...
+92438 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.Crawler  - Executing click on element: "Send Feedback" A: href="javascript:document.interactivefeedback.submit();" click xpath /HTML[1]/BODY[1]/DIV[1]/DIV[2]/DIV[4]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[4]/DIV[1]/DIV[1]/SPAN[2]/FORM[1]/A[1]; State: index
+92867 [Listener-127.0.0.1:1234-75] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/js/browserSize.js
+92876 [Listener-127.0.0.1:1234-76] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/js/article_dhtml.js
+92881 [Listener-127.0.0.1:1234-78] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/js/section/timesselect/timesselect.js
+92887 [Listener-127.0.0.1:1234-77] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/js/Tacoda_AMS_DDC_Header.js
+92915 [Listener-127.0.0.1:1234-79] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/css/membercenter.cssscript0
+92916 [Listener-127.0.0.1:1234-79] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/css/membercenter.cssscript1
+93836 [Listener-127.0.0.1:1234-74] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/js/common.js
+94852 [Listener-127.0.0.1:1234-79] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/js/mtr.js
+94918 [Listener-127.0.0.1:1234-79] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/js/app/lib/env.js
+94988 [Listener-127.0.0.1:1234-86] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/js/app/timespeople_1.5/lib/urilist.js
+95017 [Listener-127.0.0.1:1234-84] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/js/app/lib/NYTD/0.0.1/template.js
+95041 [Listener-127.0.0.1:1234-79] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/js/app/timespeople/activities/1.6/boot.js
+95057 [Listener-127.0.0.1:1234-85] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/js/adx/googleads.js
+95083 [Listener-127.0.0.1:1234-83] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/js/app/lib/scriptaculous/1.8.3/effects.js
+95323 [Listener-127.0.0.1:1234-82] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/js/app/lib/prototype/1.7/prototype.js
+95396 [Listener-127.0.0.1:1234-74] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://meter-svc.nytimes.com:80/meter.js?url=http%3A%2F%2Fwww.nytimes.com%2Fgst%2Femailus.html&referer=http%3A%2F%2Fwww.nytimes.com%2Finteractive%2Fsports%2Ffootball%2F20110108-nfl-feature.html%3Fref%3Dsports&callback=j1307866745380
+97859 [Listener-127.0.0.1:1234-87] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/js/app/timespeople/toolbar/1.7/boot.js
+97911 [Listener-127.0.0.1:1234-86] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/js/fileit.js
+98994 [Listener-127.0.0.1:1234-79] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/css/membercenter.ns.cssscript0
+98995 [Listener-127.0.0.1:1234-79] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/css/membercenter.ns.cssscript1
+99015 [Listener-127.0.0.1:1234-84] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/css/membercenter.cssscript0
+99016 [Listener-127.0.0.1:1234-84] INFO  com.crawljax.plugins.aji.JSModifyProxyPlugin  - Modifying response for http://www.nytimes.com:80/css/membercenter.cssscript1
+100044 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.Crawler  - Dom is Changed!
+100045 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.state.StateFlowGraph  - Correcting state name from  state2 to state1
+100045 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.state.StateMachine  - State state1 added to the StateMachine.
+100057 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.state.StateMachine  - StateMachine's Pointer changed to: state1
+100058 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.state.StateMachine  - StateMachine's Pointer changed to: state1 FROM index
+100058 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.plugin.CrawljaxPluginsUtil  - Running OnNewStatePlugins...
+100192 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.plugin.CrawljaxPluginsUtil  - Running GuidedCrawlingPlugins...
+100223 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.Crawler  - RECURSIVE Call crawl; Current DEPTH= 1
+100223 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.Crawler  - Max number of states 2 reached!
+100224 [Thread 1 Crawler 1 (initial)] WARN  com.crawljax.core.CrawljaxController  - After 1 min, 39 sec the crawling process was requested to terminate @ Thread[Thread 1 Crawler 1 (initial),5,main]
+100225 [Browser closing Thread] INFO  com.crawljax.browser.WebDriverBackedEmbeddedBrowser  - Closing the browser...
+100937 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CrawljaxController  - Interaction Element= "Send Feedback" A: href="javascript:document.interactivefeedback.submit();" click xpath /HTML[1]/BODY[1]/DIV[1]/DIV[2]/DIV[4]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[4]/DIV[1]/DIV[1]/SPAN[2]/FORM[1]/A[1]
+100938 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CrawljaxController  - Total Crawling time(100401ms) ~= 1 min, 40 sec
+100940 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CrawljaxController  - EXAMINED ELEMENTS: 7
+100940 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CrawljaxController  - CLICKABLES: 1
+100940 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CrawljaxController  - STATES: 2
+100999 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CrawljaxController  - Dom average size (byte): 46945
+101000 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CrawljaxController  - DONE!!!
+101000 [Thread 1 Crawler 1 (initial)] WARN  com.crawljax.core.CrawljaxController  - After 1 min, 40 sec the crawling process was requested to terminate @ Thread[Thread 1 Crawler 1 (initial),5,main]
+101011 [Thread 1 Crawler 1 (initial)] ERROR com.crawljax.browser.BrowserPool  - The shutdown thread of the BrowserPool was Interrupted
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1210)
+	at java.lang.Thread.join(Thread.java:1263)
+	at com.crawljax.browser.BrowserPool.shutdown(BrowserPool.java:444)
+	at com.crawljax.core.CrawljaxController.terminate(CrawljaxController.java:290)
+	at com.crawljax.core.Crawler.run(Crawler.java:579)
+	at com.crawljax.core.InitialCrawler.run(InitialCrawler.java:98)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+101014 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CrawljaxController  - Interaction Element= "Send Feedback" A: href="javascript:document.interactivefeedback.submit();" click xpath /HTML[1]/BODY[1]/DIV[1]/DIV[2]/DIV[4]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[4]/DIV[1]/DIV[1]/SPAN[2]/FORM[1]/A[1]
+101014 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CrawljaxController  - Total Crawling time(100478ms) ~= 1 min, 40 sec
+101014 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CrawljaxController  - EXAMINED ELEMENTS: 7
+101014 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CrawljaxController  - CLICKABLES: 1
+101014 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CrawljaxController  - STATES: 2
+101015 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CrawljaxController  - Dom average size (byte): 46945
+101015 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CrawljaxController  - DONE!!!
+101015 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CrawlerExecutor  - Finished executing
+101015 [Thread 1 Crawler 1 (initial)] INFO  com.crawljax.core.CrawlerExecutor  - All Crawlers finished executing, now shutting down
+101015 [main] INFO  com.crawljax.core.CrawlerExecutor  - CrawlerExecutor terminated
+101016 [main] INFO  com.crawljax.core.plugin.CrawljaxPluginsUtil  - Running PostCrawlingPlugins...
+101016 [Browser closing Thread] INFO  com.crawljax.browser.WebDriverBackedEmbeddedBrowser  - Closing the browser...
+101267 [main] INFO  com.crawljax.plugins.crawloverview.CrawlOverview  - Overview report generated: /Users/focarizajr/Documents/workspace/crawljax-sample/crawloverview/index.html

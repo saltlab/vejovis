@@ -1,0 +1,66 @@
+
+
+Iteration number: 62
+Successes So Far: 0
+Failures So Far: 0
+Activated So Far: 0
+Injected So Far: 62
+Fix Class: NEAR_MATCH_TREE
+Number of Fix Suggestions: 1
+
+
+Iteration number: 63
+Successes So Far: 1
+Failures So Far: 0
+Activated So Far: 1
+Injected So Far: 63
+Fix Class: NEAR_MATCH_TREE
+Number of Fix Suggestions: 1
+
+
+Iteration number: 64
+Successes So Far: 2
+Failures So Far: 0
+Activated So Far: 2
+Injected So Far: 64
+
+
+Iteration number: 65
+Successes So Far: 2
+Failures So Far: 0
+Activated So Far: 2
+Injected So Far: 65
+
+
+Iteration number: 66
+Successes So Far: 2
+Failures So Far: 0
+Activated So Far: 2
+Injected So Far: 66
+Fix Class: NUMBER_SUFFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 67
+Successes So Far: 3
+Failures So Far: 0
+Activated So Far: 3
+Injected So Far: 67
+Fix Class: NEAR_MATCH_DL
+Number of Fix Suggestions: 2
+
+
+Iteration number: 68
+Successes So Far: 4
+Failures So Far: 0
+Activated So Far: 4
+Injected So Far: 68
+Fix Class: NUMBER_SUFFIX_MOD
+Number of Fix Suggestions: 1
+
+
+Iteration number: 69
+Successes So Far: 5
+Failures So Far: 0
+Activated So Far: 5
+Injected So Far: 69

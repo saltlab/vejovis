@@ -1,0 +1,24 @@
+
+
+Iteration number: 5
+Successes So Far: 0
+Failures So Far: 0
+Activated So Far: 0
+Injected So Far: 5
+Fix Class: NEAR_MATCH_DL
+Number of Fix Suggestions: 2
+
+
+Iteration number: 6
+Successes So Far: 1
+Failures So Far: 0
+Activated So Far: 1
+Injected So Far: 6
+Number of Fix Suggestions: 23
+
+
+Iteration number: 7
+Successes So Far: 1
+Failures So Far: 1
+Activated So Far: 2
+Injected So Far: 7

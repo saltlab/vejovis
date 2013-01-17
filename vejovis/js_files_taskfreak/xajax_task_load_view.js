@@ -1,0 +1,1 @@
+function xajax_task_load_view(){return xajax.call("task_load_view", arguments, 1);}

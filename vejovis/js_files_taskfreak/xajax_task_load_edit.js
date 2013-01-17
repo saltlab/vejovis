@@ -1,0 +1,1 @@
+function xajax_task_load_edit(){return xajax.call("task_load_edit", arguments, 1);}

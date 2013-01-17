@@ -1,0 +1,15 @@
+
+
+Iteration number: 80
+Successes So Far: 0
+Failures So Far: 0
+Activated So Far: 0
+Injected So Far: 80
+Fix Class: NEAR_MATCH_TREE
+Number of Fix Suggestions: 1
+
+
+Total Successes: 1
+Total Failures: 0
+Total Activated: 1
+Total Injected: 81

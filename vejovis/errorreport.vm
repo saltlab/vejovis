@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<title>Error Report: ${title}</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<script language="javascript" type="text/javascript" src="jquery.js"></script>
+	<script language="javascript" type="text/javascript" src="general.js"></script>
+</head>
+<body>
+<h1>Error Report: ${title}</h1>
+<p>Generated: ${date}</p>
+<hr />
+
+#foreach( $reportErrorList in $reportErrorLists )
+<h2>${reportErrorList.type} ($reportErrorList.reportErrors.size())</h2>
+#foreach( $error in $reportErrorList.reportErrors )
+	<h3><a href="javascript:void(0)" onclick="toggleError(${error.id})">${error.description}</a></h3>
+	<div id="error${error.id}" style="display: none;" class="errorcontainer">	
+		#if($error.includeScreenshots())
+		<div class="domcontainer">
+		  <a href="img/new/screenshot_${error.id}.png" target="_blank"><img class="screenshot" alt="" src="img/new/screenshot_${error.id}.png" /></a>
+		</div>
+	   #if($error.includeOriginalScreenshots())
+		  <div class="domcontainer">
+        <a href="img/orig/screenshot_${error.getOriginalScreenShotId()}.png" target="_blank"><img class="screenshot" alt="" src="img/orig/screenshot_${error.getOriginalScreenShotId()}.png" /></a>
+      </div>
+     #end
+		<div style="clear: both;"></div>
+		#end
+		#if($error.getPathToFailure().size() > 0)
+		<h4>Path to failure:</h4>
+		<ul>
+		#foreach( $eventable in $error.getPathToFailure() )
+			<li>$eventable.toString()</li>
+		#end
+		</ul>
+		#end
+		#if($error.getJavascriptExpressions().size() > 0)
+		<h4>Javascript expressions:</h4>
+		<ul>
+		#foreach( $expression in $error.getJavascriptExpressions() )
+			<li>$expression.getExpression(): <b>$expression.getValue()</b></li>
+		#end
+		</ul>
+		#end
+		<h4><a href="javascript:void(0)" onclick="toggleDOMs(${error.id});">View DOMs</a></h4>
+		<div id="doms_error${error.id}" style="display: none">
+			#if($error.highlights.size() > 0)
+			<table class="highlights">
+				<tr style="height: 20px;">
+					<th>Color</th>
+					<th>Description</th>
+				</tr>
+			#foreach( $highlight in ${error.highlights} )
+				<tr>
+					<td id="color_${highlight.id}" style="background-color: ${highlight.color};"><input type="checkbox" onclick="toggleHighlight('${highlight.id}', this)" checked="checked" /></td>
+					<td>${highlight.description}</td>
+				</tr>
+			#end
+			</table>
+			#end
+			<div class="domcontainer">
+				<h4>DOM at moment of failure</h4>
+				<div id="dom_${error.id}_current" class="dom"></div>
+			</div>
+			#if($error.hasOriginalState())
+			<div class="domcontainer">
+				<h4>Original DOM</h4>
+				<div id="dom_${error.id}_original" class="dom"></div>
+			</div>
+			#end
+			<div style="clear: both;"></div>
+		</div>
+		<hr />
+	</div>
+#end
+#end
+
+</body>
+</html>

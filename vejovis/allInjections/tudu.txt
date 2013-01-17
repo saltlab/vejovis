@@ -1,0 +1,247 @@
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 4
+OUTPUT 2: Original source code of the getElementById Line: $("addNewTodoDiv").style.display = "inline";
+
+OUTPUT 3: Line no. mutated Line: 4
+OUTPUT 4: Original source code of mutated Line: $("addNewTodoDiv").style.display = "inline";
+
+OUTPUT 5: Modified source code of the line that has been mutated: $("UopqlLNClArMk").style.display = "inline";
+
+OUTPUT 6: Name of the function containing the mutated line: showAddTodo
+OUTPUT 7: MODIFY, "addNewTodoDiv", "UopqlLNClArMk", showAddTodo
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: $("addNewTodoDiv").style.display = 'none';
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: $("addNewTodoDiv").style.display = 'none';
+
+OUTPUT 5: Modified source code of the line that has been mutated: $("wddNeaTodoDiv").style.display = 'none';
+
+OUTPUT 6: Name of the function containing the mutated line: cancelAddTodo
+OUTPUT 7: MODIFY, "addNewTodoDiv", "wddNeaTodoDiv", cancelAddTodo
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: $("addNewTodoDiv").style.display = 'none';
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: $("addNewTodoDiv").style.display = 'none';
+
+OUTPUT 5: Modified source code of the line that has been mutated: $("addNewTodoiDv").style.display = 'none';
+
+OUTPUT 6: Name of the function containing the mutated line: addTodo
+OUTPUT 7: MODIFY, "addNewTodoDiv", "addNewTodoiDv", addTodo
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.onkeydown = function(e) {
+  if (!e) 
+  e = window.event;
+  if (e.keyCode == 13 && keyboardListener == "on") 
+  {
+    if ($("addNewTodoDiv").style.display == "inline") 
+    {
+      addTodo();
+    } else if ($("editTodoDiv").style.display == "inline") 
+    {
+      editTodo();
+    }
+  }
+};
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.onkeydown = function(e) {
+  if (!e) 
+  e = window.event;
+  if (e.keyCode == 13 && keyboardListener == "on") 
+  {
+    if ($("addNewTodoDiv").style.display == "inline") 
+    {
+      addTodo();
+    } else if ($("editTodoDiv").style.display == "inline") 
+    {
+      editTodo();
+    }
+  }
+};
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.onkeydown = function(e) {
+  if (!e) 
+  e = window.event;
+  if (e.keyCode == 13 && keyboardListener == "on") 
+  {
+    if ($("addNewTodoDiv").style.display == "inline") 
+    {
+      addTodo();
+    } else if ($("editTodoDivxPrQmR").style.display == "inline") 
+    {
+      editTodo();
+    }
+  }
+};
+
+OUTPUT 6: Name of the function containing the mutated line: anonymous12
+OUTPUT 7: MODIFY, "editTodoDiv", "editTodoDivxPrQmR", anonymous12
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 6
+OUTPUT 2: Original source code of the getElementById Line: $("editTodoDiv").style.display = 'none';
+
+OUTPUT 3: Line no. mutated Line: 6
+OUTPUT 4: Original source code of mutated Line: $("editTodoDiv").style.display = 'none';
+
+OUTPUT 5: Modified source code of the line that has been mutated: $("yeditTodoDiv").style.display = 'none';
+
+OUTPUT 6: Name of the function containing the mutated line: hideTodosLayers
+OUTPUT 7: MODIFY, "editTodoDiv", "yeditTodoDiv", hideTodosLayers
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: $("show-" + todoId).style.display = 'none';
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: $("show-" + todoId).style.display = 'none';
+
+OUTPUT 5: Modified source code of the line that has been mutated: $("show-" + todoId).style.display = 'none';
+
+OUTPUT 6: Name of the function containing the mutated line: showQuickEditTodo
+OUTPUT 7: MODIFY, "show-" , "shEhOvow-"", showQuickEditTodo
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 11
+OUTPUT 2: Original source code of the getElementById Line: $("addNewListDiv").style.display = 'none';
+
+OUTPUT 3: Line no. mutated Line: 11
+OUTPUT 4: Original source code of mutated Line: $("addNewListDiv").style.display = 'none';
+
+OUTPUT 5: Modified source code of the line that has been mutated: $("a").style.display = 'none';
+
+OUTPUT 6: Name of the function containing the mutated line: hideTodosLayers
+OUTPUT 7: MODIFY, "addNewListDiv", "a", hideTodosLayers
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 14
+OUTPUT 2: Original source code of the getElementById Line: $("editListDiv").style.display = 'none';
+
+OUTPUT 3: Line no. mutated Line: 14
+OUTPUT 4: Original source code of mutated Line: $("editListDiv").style.display = 'none';
+
+OUTPUT 5: Modified source code of the line that has been mutated: $("ediListDiv").style.display = 'none';
+
+OUTPUT 6: Name of the function containing the mutated line: hideTodosLayers
+OUTPUT 7: MODIFY, "editListDiv", "ediListDiv", hideTodosLayers
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.onkeydown = function(e) {
+  if (!e) 
+  e = window.event;
+  if (e.keyCode == 13 && keyboardListener == "on") 
+  {
+    if ($("addNewTodoDiv").style.display == "inline") 
+    {
+      addTodo();
+    } else if ($("editTodoDiv").style.display == "inline") 
+    {
+      editTodo();
+    }
+  }
+};
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.onkeydown = function(e) {
+  if (!e) 
+  e = window.event;
+  if (e.keyCode == 13 && keyboardListener == "on") 
+  {
+    if ($("addNewTodoDiv").style.display == "inline") 
+    {
+      addTodo();
+    } else if ($("editTodoDiv").style.display == "inline") 
+    {
+      editTodo();
+    }
+  }
+};
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.onkeydown = function(e) {
+  if (!e) 
+  e = window.event;
+  if (e.keyCode == 13 && keyboardListener == "on") 
+  {
+    if ($("addNewTodoDiv").style.display == "inline") 
+    {
+      addTodo();
+    } else if ($("editTodoDivv").style.display == "inline") 
+    {
+      editTodo();
+    }
+  }
+};
+
+OUTPUT 6: Name of the function containing the mutated line: anonymous12
+OUTPUT 7: MODIFY, "editTodoDiv", "editTodoDivv", anonymous12
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: $("editListDiv").style.display = 'none';
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: $("editListDiv").style.display = 'none';
+
+OUTPUT 5: Modified source code of the line that has been mutated: $("UNtFeldOUug").style.display = 'none';
+
+OUTPUT 6: Name of the function containing the mutated line: cancelEditTodoList
+OUTPUT 7: MODIFY, "editListDiv", "UNtFeldOUug", cancelEditTodoList
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: $("addNewListDiv").style.display = "inline";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: $("addNewListDiv").style.display = "inline";
+
+OUTPUT 5: Modified source code of the line that has been mutated: $("addNewListiDv").style.display = "inline";
+
+OUTPUT 6: Name of the function containing the mutated line: showAddTodoList
+OUTPUT 7: MODIFY, "addNewListDiv", "addNewListiDv", showAddTodoList
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 6
+OUTPUT 2: Original source code of the getElementById Line: $("addNewListDiv").style.display = 'none';
+
+OUTPUT 3: Line no. mutated Line: 6
+OUTPUT 4: Original source code of mutated Line: $("addNewListDiv").style.display = 'none';
+
+OUTPUT 5: Modified source code of the line that has been mutated: $("pMpFpAtGcIwZbaddNewListDiv").style.display = 'none';
+
+OUTPUT 6: Name of the function containing the mutated line: addTodoList
+OUTPUT 7: MODIFY, "addNewListDiv", "pMpFpAtGcIwZbaddNewListDiv", addTodoList
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 4
+OUTPUT 2: Original source code of the getElementById Line: $("editListDiv").style.display = "inline";
+
+OUTPUT 3: Line no. mutated Line: 4
+OUTPUT 4: Original source code of mutated Line: $("editListDiv").style.display = "inline";
+
+OUTPUT 5: Modified source code of the line that has been mutated: $("editLis").style.display = "inline";
+
+OUTPUT 6: Name of the function containing the mutated line: showEditTodoList
+OUTPUT 7: MODIFY, "editListDiv", "editLis", showEditTodoList
+-----------------------------------------------------------------------------------------------------------

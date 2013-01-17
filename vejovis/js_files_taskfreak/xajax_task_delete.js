@@ -1,0 +1,1 @@
+function xajax_task_delete(){return xajax.call("task_delete", arguments, 1);}

@@ -1,0 +1,1 @@
+function xajax_task_comment_edit(){return xajax.call("task_comment_edit", arguments, 1);}

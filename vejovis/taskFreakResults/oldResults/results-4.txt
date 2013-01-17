@@ -1,0 +1,127 @@
+
+
+Iteration number: 107
+Successes So Far: 0
+Failures So Far: 0
+Activated So Far: 0
+Injected So Far: 107
+Number of Fix Suggestions: 1
+
+
+Iteration number: 108
+Successes So Far: 1
+Failures So Far: 0
+Activated So Far: 1
+Injected So Far: 108
+Number of Fix Suggestions: 1
+
+
+Iteration number: 109
+Successes So Far: 2
+Failures So Far: 0
+Activated So Far: 2
+Injected So Far: 109
+
+
+Iteration number: 110
+Successes So Far: 2
+Failures So Far: 0
+Activated So Far: 2
+Injected So Far: 110
+Number of Fix Suggestions: 79
+
+
+Iteration number: 111
+Successes So Far: 2
+Failures So Far: 1
+Activated So Far: 3
+Injected So Far: 111
+
+
+Iteration number: 112
+Successes So Far: 2
+Failures So Far: 1
+Activated So Far: 3
+Injected So Far: 112
+
+
+Iteration number: 113
+Successes So Far: 2
+Failures So Far: 1
+Activated So Far: 3
+Injected So Far: 113
+Number of Fix Suggestions: 79
+
+
+Iteration number: 114
+Successes So Far: 2
+Failures So Far: 2
+Activated So Far: 4
+Injected So Far: 114
+Number of Fix Suggestions: 79
+
+
+Iteration number: 115
+Successes So Far: 2
+Failures So Far: 3
+Activated So Far: 5
+Injected So Far: 115
+
+
+Iteration number: 116
+Successes So Far: 2
+Failures So Far: 3
+Activated So Far: 5
+Injected So Far: 116
+
+
+Iteration number: 117
+Successes So Far: 2
+Failures So Far: 3
+Activated So Far: 5
+Injected So Far: 117
+
+
+Iteration number: 118
+Successes So Far: 2
+Failures So Far: 3
+Activated So Far: 5
+Injected So Far: 118
+Number of Fix Suggestions: 84
+
+
+Iteration number: 119
+Successes So Far: 2
+Failures So Far: 4
+Activated So Far: 6
+Injected So Far: 119
+
+
+Iteration number: 120
+Successes So Far: 2
+Failures So Far: 4
+Activated So Far: 6
+Injected So Far: 120
+Number of Fix Suggestions: 79
+
+
+Iteration number: 121
+Successes So Far: 2
+Failures So Far: 5
+Activated So Far: 7
+Injected So Far: 121
+
+
+Iteration number: 122
+Successes So Far: 2
+Failures So Far: 5
+Activated So Far: 7
+Injected So Far: 122
+Number of Fix Suggestions: 84
+
+
+Iteration number: 123
+Successes So Far: 2
+Failures So Far: 6
+Activated So Far: 8
+Injected So Far: 123

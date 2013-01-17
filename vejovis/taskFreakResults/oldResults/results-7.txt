@@ -1,0 +1,63 @@
+
+
+Iteration number: 0
+Successes So Far: 0
+Failures So Far: 0
+Activated So Far: 0
+Injected So Far: 0
+Number of Fix Suggestions: 1
+
+
+Iteration number: 1
+Successes So Far: 1
+Failures So Far: 0
+Activated So Far: 1
+Injected So Far: 1
+Number of Fix Suggestions: 1
+
+
+Iteration number: 2
+Successes So Far: 2
+Failures So Far: 0
+Activated So Far: 2
+Injected So Far: 2
+Number of Fix Suggestions: 1
+
+
+Iteration number: 3
+Successes So Far: 3
+Failures So Far: 0
+Activated So Far: 3
+Injected So Far: 3
+Number of Fix Suggestions: 1
+
+
+Iteration number: 4
+Successes So Far: 4
+Failures So Far: 0
+Activated So Far: 4
+Injected So Far: 4
+Number of Fix Suggestions: 1
+
+
+Iteration number: 5
+Successes So Far: 5
+Failures So Far: 0
+Activated So Far: 5
+Injected So Far: 5
+Number of Fix Suggestions: 1
+
+
+Iteration number: 6
+Successes So Far: 6
+Failures So Far: 0
+Activated So Far: 6
+Injected So Far: 6
+Number of Fix Suggestions: 1
+
+
+Iteration number: 7
+Successes So Far: 7
+Failures So Far: 0
+Activated So Far: 7
+Injected So Far: 7

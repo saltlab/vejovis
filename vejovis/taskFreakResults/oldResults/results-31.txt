@@ -1,0 +1,38 @@
+
+
+Iteration number: 356
+Successes So Far: 0
+Failures So Far: 0
+Activated So Far: 0
+Injected So Far: 356
+Number of Fix Suggestions: 1
+
+
+Iteration number: 357
+Successes So Far: 1
+Failures So Far: 0
+Activated So Far: 1
+Injected So Far: 357
+Number of Fix Suggestions: 1
+
+
+Iteration number: 358
+Successes So Far: 2
+Failures So Far: 0
+Activated So Far: 2
+Injected So Far: 358
+Number of Fix Suggestions: 1
+
+
+Iteration number: 359
+Successes So Far: 3
+Failures So Far: 0
+Activated So Far: 3
+Injected So Far: 359
+Number of Fix Suggestions: 1
+
+
+Total Successes: 4
+Total Failures: 0
+Total Activated: 4
+Total Injected: 360

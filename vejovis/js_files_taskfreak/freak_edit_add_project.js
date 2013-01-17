@@ -1,0 +1,34 @@
+function freak_edit_add_project(id,name,link,future,past,all) {
+	ff.project.appendChild(opto(id,name));
+	var e = document.createElement('li');
+	e.className = 'more';
+	e0 = document.createElement('a');
+	e0.href=link+'&show=today';
+	e0.appendChild(document.createTextNode(name));
+	e.appendChild(e0);
+	e1 = document.createElement('ul');
+	// e1_1 = freak_edit_add_project_link('future',future,link);
+	e1_1 = document.createElement('li');
+	e1_1_1 = document.createElement('a');
+	e1_1_1.href=link+'&show=future';
+	e1_1_1.appendChild(document.createTextNode(future));
+	e1_1.appendChild(e1_1_1);
+	e1.appendChild(e1_1);
+	// e1_2 = freak_edit_add_project_link('past',past,link);
+	e1_2 = document.createElement('li');
+	e1_2_1 = document.createElement('a');
+	e1_2_1.href=link+'&show=past';
+	e1_2_1.appendChild(document.createTextNode(past));
+	e1_2.appendChild(e1_2_1);
+	e1.appendChild(e1_2);
+	//e1.appendChild(freak_edit_add_project_link('all',all,link));
+	e1_3 = document.createElement('li');
+	e1_3_1 = document.createElement('a');
+	e1_3_1.href=link+'&show=all';
+	e1_3_1.appendChild(document.createTextNode(all));
+	e1_3.appendChild(e1_3_1);
+	e1.appendChild(e1_3);
+	e.appendChild(e1);
+	//var navProj = document.getElementById('nav_projects');
+	//navProj.appendChild(e);
+}

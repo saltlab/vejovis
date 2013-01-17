@@ -1,0 +1,2340 @@
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of getElementById Line: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aid54" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "aid54", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("dia" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "dia", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "rnadom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "rnadom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "randomyZr").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "randomyZr", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("Ioaid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "Ioaid", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "FqYbrandom").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "FqYbrandom", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("ai" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "ai", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "ranm").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "ranm", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "rannnndom").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "rannnndom", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of getElementById Line: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aid3" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "aid3", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "raodnm").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "raodnm", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "radnom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "radnom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("aid204" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "aid204", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("taid2" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "taid2", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("aDgid2" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "aDgid2", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "r").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "r", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("2" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "2", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "rannnndom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "rannnndom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "HSrCUL").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "HSrCUL", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("dia" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "dia", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "arndom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "arndom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aidy" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "aidy", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "mrandom").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "mrandom", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "rafWzndom").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "rafWzndom", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "r").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "r", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("ai2" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "ai2", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aiiiid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "aiiiid", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "KJrCyS").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "KJrCyS", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "arndom").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "arndom", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "ranodm").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "ranodm", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "randomv").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "randomv", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "HjMtrandom").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "HjMtrandom", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "rQhZdQxandom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "rQhZdQxandom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "ra").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "ra", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("aid263" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "aid263", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "randdom").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "randdom", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("wlw" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "wlw", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "ramdon").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "ramdon", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("iad2" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "iad2", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aidz" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "aidz", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aid04" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "aid04", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("Epaid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "Epaid", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("ai" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "ai", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "ranm").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "ranm", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aaaid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "aaaid", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of getElementById Line: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("aid58" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "aid58", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("iad" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "iad", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("adi" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "adi", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("aid2xGu" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "aid2xGu", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "irandom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "irandom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "raXmPrndom").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "raXmPrndom", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "r").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "r", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "ranom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "ranom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "randdddom").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "randdddom", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "YuvlXR").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "YuvlXR", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("dia2" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "dia2", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("adi" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "adi", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "randomuNj").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "randomuNj", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("Mbaid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "Mbaid", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "ranRodom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "ranRodom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "r").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "r", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "ndom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "ndom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aiiiid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "aiiiid", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "Nrsrqx").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "Nrsrqx", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("adi2" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "adi2", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "radnom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "radnom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aidz" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "aidz", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("naid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "naid", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aijd" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "aijd", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "ra").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "ra", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("ad" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "ad", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "randdddom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "randdddom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "MRyQqN").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "MRyQqN", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "arndom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "arndom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "rnadom").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "rnadom", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "randomyTh").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "randomyTh", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("taid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "taid", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("aidXr2" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "aidXr2", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "rand").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "rand", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "rm").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "rm", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("aaid2" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "aaid2", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("IwQB" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "IwQB", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "oandrm").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "oandrm", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "rnadom").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "rnadom", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "randomdYyMgO").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "randomdYyMgO", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "LfBlrandom").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "LfBlrandom", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "rHuVmZpandom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "rHuVmZpandom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("a" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "a", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "radom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "radom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "randoooom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "randoooom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of getElementById Line: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("aid84" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "aid84", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "radnom").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "radnom", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("iad" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "iad", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "randomsC").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "randomsC", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "Cxrandom").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "Cxrandom", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "ranPvMaChdom").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "ranPvMaChdom", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "rand").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "rand", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("ad" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "ad", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("aidd2" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "aidd2", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "PTwGul").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "PTwGul", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("dia" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "dia", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "randmo").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "randmo", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "randomrE").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "randomrE", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("gDxaid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "gDxaid", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "RwZxWjrandom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "RwZxWjrandom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("ai" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "ai", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "randm").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "randm", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "ranndom").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "ranndom", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of getElementById Line: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aid3" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "aid3", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "ramdon").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "ramdon", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("iad" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "iad", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("aid2jJnN" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "aid2jJnN", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "Bsrandom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "Bsrandom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("aidUv2" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "aidUv2", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "ran").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "ran", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("id" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "id", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aaaaid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "aaaaid", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "ZXGgAZ").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "ZXGgAZ", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "rmndoa").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "rmndoa", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("ai2d" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "ai2d", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aiddZn" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "aiddZn", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "KvRsPjrandom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "KvRsPjrandom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "ruandom").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "ruandom", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "rand").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "rand", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "randm").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "randm", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "ranndom").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "ranndom", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of getElementById Line: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aid93" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "aid93", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "rondam").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "rondam", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "arndom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "arndom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "randomeSxDtU").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "randomeSxDtU", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "mEbrandom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "mEbrandom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "KkNzKlrandom").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "KkNzKlrandom", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("a" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "a", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "rom").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "rom", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aiiiid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "aiiiid", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "wdSzPv").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "wdSzPv", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "ranodm").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "ranodm", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("adi2" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "adi2", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aidjI" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "aidjI", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "ZfFvQurandom").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "ZfFvQurandom", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("anUoid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "anUoid", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "rand").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "rand", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "om").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "om", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aaaaid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "aaaaid", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "CUuGUF").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "CUuGUF", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "rondam").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "rondam", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("adi" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "adi", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "randomdM").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "randomdM", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aid1" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "aid1", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aaid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "aaid", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "rando").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "rando", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "radom").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "radom", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "rannnndom").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "rannnndom", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("PkW" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "PkW", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "ranmod").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "ranmod", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("adi2" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "adi2", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "randomkXtUfX").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "randomkXtUfX", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("kaid2" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "kaid2", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "randoMim").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "randoMim", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "rand").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "rand", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("d2" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "d2", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("aiiid2" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "aiiid2", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "vrAJCQ").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "vrAJCQ", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("adi" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "adi", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "randmo").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "randmo", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "randomuLtAo").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "randomuLtAo", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "YnCtCtrandom").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "YnCtCtrandom", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "ranTxdom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "ranTxdom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: document.getElementById(wordId).innerHTML = actual;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(wordId + "rand").innerHTML = actual;
+
+OUTPUT 6: Name of the function containing the mutated line: showWord
+OUTPUT 7: MODIFY, "", "rand", showWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aid5" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "aid5", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aiiiid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "aiiiid", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of getElementById Line: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("aid77" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "aid77", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: document.getElementById(assembleId).removeChild(elem);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(assembleId + "rnadom").removeChild(elem);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "", "rnadom", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("adi" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "adi", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "randomqWtEw").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "randomqWtEw", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("zaid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "zaid", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aRpid" + RHUCKO1).style.visibility = "hidden";
+
+OUTPUT 6: Name of the function containing the mutated line: append
+OUTPUT 7: MODIFY, "aid", "aRpid", append
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: elem = document.getElementById("aid2" + RHUCKO1);
+
+OUTPUT 5: Modified source code of the line that has been mutated: elem = document.getElementById("a" + RHUCKO1);
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid2", "a", retract
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 10
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 3: Line no. mutated Line: 10
+OUTPUT 4: Original source code of mutated Line: document.getElementById(boardId).appendChild(a);
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(boardId + "rdom").appendChild(a);
+
+OUTPUT 6: Name of the function containing the mutated line: creatWord
+OUTPUT 7: MODIFY, "", "rdom", creatWord
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: document.getElementById("aid" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("aidd" + RHUCKO1).style.visibility = "visible";
+
+OUTPUT 6: Name of the function containing the mutated line: retract
+OUTPUT 7: MODIFY, "aid", "aidd", retract
+-----------------------------------------------------------------------------------------------------------

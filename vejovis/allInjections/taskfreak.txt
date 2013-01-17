@@ -1,0 +1,1507 @@
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "hdMwxO");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "hdMwxO", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "rnadom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "rnadom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "radnom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "radnom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randomwLiFbO");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randomwLiFbO", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "Nerandom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "Nerandom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randReSzom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randReSzom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "ran");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "ran", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "rom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "rom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "rannndom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "rannndom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("nav_prejocts");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'nav_prejocts', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("nav_porjects");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'nav_porjects', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("vstsxT");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', 'vstsxT', freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("pIcMvmessage")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "pIcMvmessage", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fvilXfew");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fvilXfew', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("nav");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'nav', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fvw");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fvw', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("mmmessage")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "mmmessage", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "GJuFws");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "GJuFws", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("htsez");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', "htsez", freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fivew");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fivew', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fveiw");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fveiw', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("nav_projectsq");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'nav_projectsq', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("lnav_projects");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', "lnav_projects", freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("vs");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', 'vs', freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("nvHe");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', "nvHe", freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("naj_provects");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'naj_provects', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fveiw");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fveiw', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("messageqCg")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "messageqCg", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("yVzRxmessage")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "yVzRxmessage", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fv");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fv', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fviw");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fviw', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("vtss");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', 'vtss', freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("vsthQts");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', 'vsthQts', freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("nav_");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'nav_', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("naprojects");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'naprojects', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("nav_projjects");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'nav_projjects', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "GZIENo");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "GZIENo", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("ZtCS");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', "ZtCS", freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fivew");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fivew', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("nav_projcets");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'nav_projcets', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fviewtArTq");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fviewtArTq', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("rKqfview");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', "rKqfview", freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fdIiview");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fdIiview', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fvi");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fvi', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("vsts");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', 'vsts', freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("nav_projecttts");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'nav_projecttts', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "WtsSjO");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "WtsSjO", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randdddom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randdddom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "ra");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "ra", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("vtss");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', 'vtss', freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("messagek")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "messagek", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("AsVvnav_projects");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', "AsVvnav_projects", freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("meGlVzUmssage")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "meGlVzUmssage", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("v");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', 'v', freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("w");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'w', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("vstss");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', 'vstss', freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "tZhrandom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "tZhrandom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "random");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "random", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("ITpVNxw")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "ITpVNxw", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("na_vprojects");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'na_vprojects', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("nav_projcets");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'nav_projcets', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fviewzT");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fviewzT', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("vErmessage")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "vErmessage", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fviWdVaew");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fviWdVaew', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("m")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "m", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("message")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "message", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("mPLmZgr")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "mPLmZgr", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fivew");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fivew', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("messagerWq")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "messagerWq", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("amessage")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "amessage", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("pVfvsts");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', 'pVfvsts', freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("vst");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', 'vst', freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("vvvvsts");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', 'vvvvsts', freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "hVwrandom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "hVwrandom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "raUnEyndom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "raUnEyndom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "radnom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "radnom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("JwXJnqW")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "JwXJnqW", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("nav_pjorects");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'nav_pjorects', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("vtss");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', 'vtss', freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("nav_projectsjIhJkLg");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'nav_projectsjIhJkLg', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("mesiNosage")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "mesiNosage", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("v");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', 'v', freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("ts");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', 'ts', freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "VgfDPl");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "VgfDPl", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randxXnTqom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randxXnTqom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("fChy");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', "fChy", freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("nav_rpojects");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'nav_rpojects', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("messaget")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "messaget", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("YsSsRfPunav_projects");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', "YsSsRfPunav_projects", freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("faOkDfview");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'faOkDfview', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("nav_p");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'nav_p', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("nav_projts");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'nav_projts', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("mmmmessage")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "mmmmessage", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "axbynq");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "axbynq", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "radnom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "radnom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fivew");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fivew', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("nav_projcets");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'nav_projcets', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("Xgfview");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', "Xgfview", freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fv");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fv', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("vsts");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', 'vsts', freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("vvvvsts");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', 'vvvvsts', freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("XmJg");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', "XmJg", freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("naveproj_cts");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'naveproj_cts', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("message")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "message", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("wvsts");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', "wvsts", freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("nav_pdrojects");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'nav_pdrojects', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("mes")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "mes", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var f = document.getElementById('vsts');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var f = document.getElementById('vsts');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var f = document.getElementById("vsts");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_calc
+OUTPUT 7: MODIFY, 'vsts', 'vsts', freak_calc
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fvieww");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fvieww', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "rannnndom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "rannnndom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "rnadom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "rnadom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "GbScTtrandom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "GbScTtrandom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "rando");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "rando", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("pPalV");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', "pPalV", freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("msseage")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "msseage", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("msesage")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "msesage", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fviewyLg");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fviewyLg', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 31
+OUTPUT 2: Original source code of the getElementById Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 3: Line no. mutated Line: 31
+OUTPUT 4: Original source code of mutated Line: var navProj = document.getElementById('nav_projects');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var navProj = document.getElementById("navWzGdLyBb_projects");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_edit_add_project
+OUTPUT 7: MODIFY, 'nav_projects', 'navWzGdLyBb_projects', freak_edit_add_project
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var e = document.getElementById('fview');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var e = document.getElementById('fview');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var e = document.getElementById("fview");
+
+OUTPUT 6: Name of the function containing the mutated line: freak_new
+OUTPUT 7: MODIFY, 'fview', 'fview', freak_new
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById("message")
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: document.getElementById("message")
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById("messageee")
+OUTPUT 6: Name of the function containing the mutated line: freak_init
+OUTPUT 7: MODIFY, "message", "messageee", freak_init
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "ran");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "ran", gE
+-----------------------------------------------------------------------------------------------------------

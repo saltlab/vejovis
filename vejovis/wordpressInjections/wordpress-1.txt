@@ -1,0 +1,299 @@
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 6
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(edButtons[button].id).value = withSlash;
+
+OUTPUT 3: Line no. mutated Line: 6
+OUTPUT 4: Original source code of mutated Line: document.getElementById(edButtons[button].id).value = withSlash;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(edButtons[button].id + "naAscc").value = withSlash;
+
+OUTPUT 6: Name of the function containing the mutated line: edAddTag
+OUTPUT 7: MODIFY, "", "naAscc", edAddTag
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 6
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(edButtons[button].id).value = withSlash;
+
+OUTPUT 3: Line no. mutated Line: 6
+OUTPUT 4: Original source code of mutated Line: document.getElementById(edButtons[button].id).value = withSlash;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(edButtons[button].id + "oandrm").value = withSlash;
+
+OUTPUT 6: Name of the function containing the mutated line: edAddTag
+OUTPUT 7: MODIFY, "", "oandrm", edAddTag
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: var sample = document.getElementById("comment-1");
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: var sample = document.getElementById("comment-1");
+
+OUTPUT 5: Modified source code of the line that has been mutated: var sample = document.getElementById("ocmment-1");
+
+OUTPUT 6: Name of the function containing the mutated line: edAddTag
+OUTPUT 7: MODIFY, "comment-1", "ocmment-1", edAddTag
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 6
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(edButtons[button].id).value = withSlash;
+
+OUTPUT 3: Line no. mutated Line: 6
+OUTPUT 4: Original source code of mutated Line: document.getElementById(edButtons[button].id).value = withSlash;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(edButtons[button].id + "randomc").value = withSlash;
+
+OUTPUT 6: Name of the function containing the mutated line: edAddTag
+OUTPUT 7: MODIFY, "", "randomc", edAddTag
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(edButtons[button].id).value = withoutSlash;
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: document.getElementById(edButtons[button].id).value = withoutSlash;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(edButtons[button].id + "Hcrandom").value = withoutSlash;
+
+OUTPUT 6: Name of the function containing the mutated line: edRemoveTag
+OUTPUT 7: MODIFY, "", "Hcrandom", edRemoveTag
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 4
+OUTPUT 2: Original source code of the getElementById Line: var sample = document.getElementById("init-1");
+
+OUTPUT 3: Line no. mutated Line: 4
+OUTPUT 4: Original source code of mutated Line: var sample = document.getElementById("init-1");
+
+OUTPUT 5: Modified source code of the line that has been mutated: var sample = document.getElementById("init-e1");
+
+OUTPUT 6: Name of the function containing the mutated line: edRemoveTag
+OUTPUT 7: MODIFY, "init-1", "init-e1", edRemoveTag
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: var sample = document.getElementById("comment-1");
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: var sample = document.getElementById("comment-1");
+
+OUTPUT 5: Modified source code of the line that has been mutated: var sample = document.getElementById("c");
+
+OUTPUT 6: Name of the function containing the mutated line: edAddTag
+OUTPUT 7: MODIFY, "comment-1", "c", edAddTag
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 6
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(edButtons[button].id).value = withSlash;
+
+OUTPUT 3: Line no. mutated Line: 6
+OUTPUT 4: Original source code of mutated Line: document.getElementById(edButtons[button].id).value = withSlash;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(edButtons[button].id + "om").value = withSlash;
+
+OUTPUT 6: Name of the function containing the mutated line: edAddTag
+OUTPUT 7: MODIFY, "", "om", edAddTag
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 6
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(edButtons[button].id).value = withSlash;
+
+OUTPUT 3: Line no. mutated Line: 6
+OUTPUT 4: Original source code of mutated Line: document.getElementById(edButtons[button].id).value = withSlash;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(edButtons[button].id + "ranndom").value = withSlash;
+
+OUTPUT 6: Name of the function containing the mutated line: edAddTag
+OUTPUT 7: MODIFY, "", "ranndom", edAddTag
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 35
+OUTPUT 2: Original source code of the getElementById Line: element = $('#' + s.element);
+
+OUTPUT 3: Line no. mutated Line: 35
+OUTPUT 4: Original source code of mutated Line: element = $('#' + s.element);
+
+OUTPUT 5: Modified source code of the line that has been mutated: element = $("Td#'" + s.element);
+
+OUTPUT 6: Name of the function containing the mutated line: anonymous146
+OUTPUT 7: MODIFY, '#' , "Td#'", anonymous146
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 6
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(edButtons[button].id).value = withSlash;
+
+OUTPUT 3: Line no. mutated Line: 6
+OUTPUT 4: Original source code of mutated Line: document.getElementById(edButtons[button].id).value = withSlash;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(edButtons[button].id + "YQnCdd").value = withSlash;
+
+OUTPUT 6: Name of the function containing the mutated line: edAddTag
+OUTPUT 7: MODIFY, "", "YQnCdd", edAddTag
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: var withSlash = '/' + document.getElementById(edButtons[button].id).value;
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: var withSlash = '/' + document.getElementById(edButtons[button].id).value;
+
+OUTPUT 5: Modified source code of the line that has been mutated: var withSlash = '/' + document.getElementById(edButtons[button].id + "raodnm").value;
+
+OUTPUT 6: Name of the function containing the mutated line: edAddTag
+OUTPUT 7: MODIFY, "", "raodnm", edAddTag
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: var sample = document.getElementById("comment-1");
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: var sample = document.getElementById("comment-1");
+
+OUTPUT 5: Modified source code of the line that has been mutated: var sample = document.getElementById("comment-118");
+
+OUTPUT 6: Name of the function containing the mutated line: edAddTag
+OUTPUT 7: MODIFY, "comment-1", "comment-118", edAddTag
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 6
+OUTPUT 2: Original source code of the getElementById Line: var buttonVal = document.getElementById(edButtons[button].id).value;
+
+OUTPUT 3: Line no. mutated Line: 6
+OUTPUT 4: Original source code of mutated Line: var buttonVal = document.getElementById(edButtons[button].id).value;
+
+OUTPUT 5: Modified source code of the line that has been mutated: var buttonVal = document.getElementById(edButtons[button].id + "randomrTl").value;
+
+OUTPUT 6: Name of the function containing the mutated line: edRemoveTag
+OUTPUT 7: MODIFY, "", "randomrTl", edRemoveTag
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: var withSlash = '/' + document.getElementById(edButtons[button].id).value;
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: var withSlash = '/' + document.getElementById(edButtons[button].id).value;
+
+OUTPUT 5: Modified source code of the line that has been mutated: var withSlash = '/' + document.getElementById(edButtons[button].id + "ZqTrUprandom").value;
+
+OUTPUT 6: Name of the function containing the mutated line: edAddTag
+OUTPUT 7: MODIFY, "", "ZqTrUprandom", edAddTag
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 3
+OUTPUT 2: Original source code of the getElementById Line: var sample = document.getElementById("comment-1");
+
+OUTPUT 3: Line no. mutated Line: 3
+OUTPUT 4: Original source code of mutated Line: var sample = document.getElementById("comment-1");
+
+OUTPUT 5: Modified source code of the line that has been mutated: var sample = document.getElementById("coNmmment-1");
+
+OUTPUT 6: Name of the function containing the mutated line: edAddTag
+OUTPUT 7: MODIFY, "comment-1", "coNmmment-1", edAddTag
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: document.getElementById(edButtons[button].id).value = withoutSlash;
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: document.getElementById(edButtons[button].id).value = withoutSlash;
+
+OUTPUT 5: Modified source code of the line that has been mutated: document.getElementById(edButtons[button].id + "rando").value = withoutSlash;
+
+OUTPUT 6: Name of the function containing the mutated line: edRemoveTag
+OUTPUT 7: MODIFY, "", "rando", edRemoveTag
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: var withSlash = '/' + document.getElementById(edButtons[button].id).value;
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: var withSlash = '/' + document.getElementById(edButtons[button].id).value;
+
+OUTPUT 5: Modified source code of the line that has been mutated: var withSlash = '/' + document.getElementById(edButtons[button].id + "rom").value;
+
+OUTPUT 6: Name of the function containing the mutated line: edAddTag
+OUTPUT 7: MODIFY, "", "rom", edAddTag
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 6
+OUTPUT 2: Original source code of the getElementById Line: var buttonVal = document.getElementById(edButtons[button].id).value;
+
+OUTPUT 3: Line no. mutated Line: 6
+OUTPUT 4: Original source code of mutated Line: var buttonVal = document.getElementById(edButtons[button].id).value;
+
+OUTPUT 5: Modified source code of the line that has been mutated: var buttonVal = document.getElementById(edButtons[button].id + "randddom").value;
+
+OUTPUT 6: Name of the function containing the mutated line: edRemoveTag
+OUTPUT 7: MODIFY, "", "randddom", edRemoveTag
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 35
+OUTPUT 2: Original source code of the getElementById Line: element = $('#' + s.element);
+
+OUTPUT 3: Line no. mutated Line: 35
+OUTPUT 4: Original source code of mutated Line: element = $('#' + s.element);
+
+OUTPUT 5: Modified source code of the line that has been mutated: element = $('#' + s.element);
+
+OUTPUT 6: Name of the function containing the mutated line: anonymous146
+OUTPUT 7: MODIFY,  s.element, , anonymous146
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 35
+OUTPUT 2: Original source code of the getElementById Line: element = $('#' + s.element);
+
+OUTPUT 3: Line no. mutated Line: 35
+OUTPUT 4: Original source code of mutated Line: element = $('#' + s.element);
+
+OUTPUT 5: Modified source code of the line that has been mutated: element = $('#' + s.element);
+
+OUTPUT 6: Name of the function containing the mutated line: anonymous146
+OUTPUT 7: MODIFY, '#' , ''# , anonymous146
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 35
+OUTPUT 2: Original source code of the getElementById Line: element = $('#' + s.element);
+
+OUTPUT 3: Line no. mutated Line: 35
+OUTPUT 4: Original source code of mutated Line: element = $('#' + s.element);
+
+OUTPUT 5: Modified source code of the line that has been mutated: element = $('#' + s.element);
+
+OUTPUT 6: Name of the function containing the mutated line: anonymous146
+OUTPUT 7: MODIFY, '#' , ''# , anonymous146
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 35
+OUTPUT 2: Original source code of the getElementById Line: element = $('#' + s.element);
+
+OUTPUT 3: Line no. mutated Line: 35
+OUTPUT 4: Original source code of mutated Line: element = $('#' + s.element);
+
+OUTPUT 5: Modified source code of the line that has been mutated: element = $('#' + s.element);
+
+OUTPUT 6: Name of the function containing the mutated line: anonymous146
+OUTPUT 7: MODIFY, '#' , '#', anonymous146
+-----------------------------------------------------------------------------------------------------------

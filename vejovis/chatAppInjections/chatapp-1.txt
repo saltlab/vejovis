@@ -1,0 +1,2116 @@
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("DMpC");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "DMpC", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("suscesc"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "suscesc", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("miyd");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "miyd", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("myidfMf");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "myidfMf", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('myvoice');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('myvoice');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("Krmyvoice");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_message
+OUTPUT 7: MODIFY, "myvoice", "Krmyvoice", focus_message
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("vKmmychannel");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_channel
+OUTPUT 7: MODIFY, "mychannel", "vKmmychannel", focus_channel
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var mychannel = document.getElementById("m");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "mychannel", "m", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var mychannel = document.getElementById("mychal");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "mychannel", "mychal", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(nid);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(nid);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(nid + "raaandom");
+
+OUTPUT 6: Name of the function containing the mutated line: get_data
+OUTPUT 7: MODIFY, "", "raaandom", get_data
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Remove
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: var m = document.getElementById('success'); m.parentNode.removeChild(m); fade(document.getElementById("success"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: CREATE, LINE 5, update_ok
+OUTPUT 8: 1
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("success"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "success", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("sucecss"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "sucecss", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Remove
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: var m = document.getElementById('success'); m.parentNode.removeChild(m); fade(document.getElementById("success"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: CREATE, LINE 5, update_ok
+OUTPUT 8: 1
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(name);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(name);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(name + "HwWeWfrandom");
+
+OUTPUT 6: Name of the function containing the mutated line: erase_element
+OUTPUT 7: MODIFY, "", "HwWeWfrandom", erase_element
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("succesvDcQzs"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "succesvDcQzs", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var mychannel = document.getElementById("m");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "mychannel", "m", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Remove
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var m = document.getElementById("myid"); m.parentNode.removeChild(m); var myuser = document.getElementById("myid");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: CREATE, LINE 8, init_values
+OUTPUT 8: 1
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("ssssuccess"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "ssssuccess", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Remove
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: var m = document.getElementById('success'); m.parentNode.removeChild(m); fade(document.getElementById("success"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: CREATE, LINE 5, update_ok
+OUTPUT 8: 1
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("usccess"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "usccess", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("mydi");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "mydi", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(name);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(name);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(name + "randomb");
+
+OUTPUT 6: Name of the function containing the mutated line: erase_element
+OUTPUT 7: MODIFY, "", "randomb", erase_element
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(name);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(name);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(name + "FgAdrandom");
+
+OUTPUT 6: Name of the function containing the mutated line: erase_element
+OUTPUT 7: MODIFY, "", "FgAdrandom", erase_element
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("mycFchannel");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_channel
+OUTPUT 7: MODIFY, "mychannel", "mycFchannel", focus_channel
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(name);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(name);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(name + "ran");
+
+OUTPUT 6: Name of the function containing the mutated line: erase_element
+OUTPUT 7: MODIFY, "", "ran", erase_element
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(name);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(name);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(name + "random");
+
+OUTPUT 6: Name of the function containing the mutated line: erase_element
+OUTPUT 7: MODIFY, "", "random", erase_element
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(nid);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(nid);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(nid + "raaaandom");
+
+OUTPUT 6: Name of the function containing the mutated line: get_data
+OUTPUT 7: MODIFY, "", "raaaandom", get_data
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('myvoice');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('myvoice');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("dWsyzEI");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_message
+OUTPUT 7: MODIFY, "myvoice", "dWsyzEI", focus_message
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var mychannel = document.getElementById("myceannhl");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "mychannel", "myceannhl", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("mydi");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "mydi", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("myido");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "myido", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("qmychannel");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_channel
+OUTPUT 7: MODIFY, "mychannel", "qmychannel", focus_channel
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("suOqccess"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "suOqccess", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("su"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "su", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("d");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "d", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("succcccess"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "succcccess", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Remove
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: var m = document.getElementById('success'); m.parentNode.removeChild(m); fade(document.getElementById("success"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: CREATE, LINE 5, update_ok
+OUTPUT 8: 1
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('myvoice');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('myvoice');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("cyvoime");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_message
+OUTPUT 7: MODIFY, "myvoice", "cyvoime", focus_message
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('ok');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('ok');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("ko");
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "ok", "ko", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("successjJjT"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "successjJjT", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('ok');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('ok');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("sok");
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "ok", "sok", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(name);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(name);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(name + "rannFqLidom");
+
+OUTPUT 6: Name of the function containing the mutated line: erase_element
+OUTPUT 7: MODIFY, "", "rannFqLidom", erase_element
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(nid);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(nid);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(nid + "rando");
+
+OUTPUT 6: Name of the function containing the mutated line: get_data
+OUTPUT 7: MODIFY, "", "rando", get_data
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("myid");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "myid", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(name);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(name);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(name + "randdom");
+
+OUTPUT 6: Name of the function containing the mutated line: erase_element
+OUTPUT 7: MODIFY, "", "randdom", erase_element
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("DyYBjBXZZ");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_channel
+OUTPUT 7: MODIFY, "mychannel", "DyYBjBXZZ", focus_channel
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("euccsss"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "euccsss", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(name);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(name);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(name + "rnadom");
+
+OUTPUT 6: Name of the function containing the mutated line: erase_element
+OUTPUT 7: MODIFY, "", "rnadom", erase_element
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("myidsQfH");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "myidsQfH", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("TiVysuccess"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "TiVysuccess", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("mypid");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "mypid", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("s"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "s", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("success"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "success", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var mychannel = document.getElementById("mychaaaannel");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "mychannel", "mychaaaannel", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Remove
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: var m = document.getElementById('success'); m.parentNode.removeChild(m); fade(document.getElementById("success"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: CREATE, LINE 5, update_ok
+OUTPUT 8: 1
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("success"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "success", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(nid);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(nid);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(nid + "arndom");
+
+OUTPUT 6: Name of the function containing the mutated line: get_data
+OUTPUT 7: MODIFY, "", "arndom", get_data
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("myidhX");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "myidhX", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('ok');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('ok');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("nok");
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "ok", "nok", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("myczWahannel");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_channel
+OUTPUT 7: MODIFY, "mychannel", "myczWahannel", focus_channel
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("succe"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "succe", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('myvoice');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('myvoice');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("myvice");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_message
+OUTPUT 7: MODIFY, "myvoice", "myvice", focus_message
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var mychannel = document.getElementById("mychhhannel");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "mychannel", "mychhhannel", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Remove
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: var m = document.getElementById('success'); m.parentNode.removeChild(m); fade(document.getElementById("success"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: CREATE, LINE 5, update_ok
+OUTPUT 8: 1
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("suscesc"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "suscesc", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(name);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(name);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(name + "radnom");
+
+OUTPUT 6: Name of the function containing the mutated line: erase_element
+OUTPUT 7: MODIFY, "", "radnom", erase_element
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("successqX"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "successqX", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('myvoice');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('myvoice');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("omyvoice");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_message
+OUTPUT 7: MODIFY, "myvoice", "omyvoice", focus_message
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(nid);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(nid);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(nid + "yrandom");
+
+OUTPUT 6: Name of the function containing the mutated line: get_data
+OUTPUT 7: MODIFY, "", "yrandom", get_data
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('ok');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('ok');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("o");
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "ok", "o", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('ok');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('ok');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("ok");
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "ok", "ok", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('ok');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('ok');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("okkkk");
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "ok", "okkkk", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Remove
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: var m = document.getElementById('success'); m.parentNode.removeChild(m); fade(document.getElementById("success"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: CREATE, LINE 5, update_ok
+OUTPUT 8: 1
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("usccess"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "usccess", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('myvoice');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('myvoice');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("myvoiec");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_message
+OUTPUT 7: MODIFY, "myvoice", "myvoiec", focus_message
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("myidyIyQ");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "myidyIyQ", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("rmyid");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "rmyid", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var mychannel = document.getElementById("mychannexl");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "mychannel", "mychannexl", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(nid);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(nid);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(nid + "rando");
+
+OUTPUT 6: Name of the function containing the mutated line: get_data
+OUTPUT 7: MODIFY, "", "rando", get_data
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("yid");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "yid", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("succcess"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "succcess", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("ufOBuvb"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "ufOBuvb", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("myhcannel");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_channel
+OUTPUT 7: MODIFY, "mychannel", "myhcannel", focus_channel
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("mydi");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "mydi", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("myidhNtH");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "myidhNtH", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var mychannel = document.getElementById("fHnGsEamychannel");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "mychannel", "fHnGsEamychannel", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("succesuNts"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "succesuNts", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("my");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "my", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('myvoice');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('myvoice');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("myvoice");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_message
+OUTPUT 7: MODIFY, "myvoice", "myvoice", focus_message
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('myvoice');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('myvoice');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("myvoiceeee");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_message
+OUTPUT 7: MODIFY, "myvoice", "myvoiceeee", focus_message
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 2
+OUTPUT 2: Original source code of the getElementById Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var mychannel = document.getElementById("PjRXxaAkw");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "mychannel", "PjRXxaAkw", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("mydi");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "mydi", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('ok');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('ok');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("ko");
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "ok", "ko", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('ok');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('ok');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("okr");
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "ok", "okr", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("uVuUqVzEbmychannel");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_channel
+OUTPUT 7: MODIFY, "mychannel", "uVuUqVzEbmychannel", focus_channel
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(nid);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(nid);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(nid + "randvMjom");
+
+OUTPUT 6: Name of the function containing the mutated line: get_data
+OUTPUT 7: MODIFY, "", "randvMjom", get_data
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("suc"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "suc", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(nid);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(nid);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(nid + "ranm");
+
+OUTPUT 6: Name of the function containing the mutated line: get_data
+OUTPUT 7: MODIFY, "", "ranm", get_data
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(name);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(name);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(name + "randomm");
+
+OUTPUT 6: Name of the function containing the mutated line: erase_element
+OUTPUT 7: MODIFY, "", "randomm", erase_element
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Remove
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: var m = document.getElementById('success'); m.parentNode.removeChild(m); fade(document.getElementById("success"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: CREATE, LINE 5, update_ok
+OUTPUT 8: 1
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("sscceus"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "sscceus", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('myvoice');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('myvoice');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("myvocie");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_message
+OUTPUT 7: MODIFY, "myvoice", "myvocie", focus_message
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("successgDmUsA"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "successgDmUsA", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('ok');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('ok');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("ook");
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "ok", "ook", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(nid);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(nid);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(nid + "randAqTcom");
+
+OUTPUT 6: Name of the function containing the mutated line: get_data
+OUTPUT 7: MODIFY, "", "randAqTcom", get_data
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var mychannel = document.getElementById("mych");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "mychannel", "mych", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("mychanel");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_channel
+OUTPUT 7: MODIFY, "mychannel", "mychanel", focus_channel
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(nid);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(nid);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(nid + "randommm");
+
+OUTPUT 6: Name of the function containing the mutated line: get_data
+OUTPUT 7: MODIFY, "", "randommm", get_data
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 2
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('ok');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('ok');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("Sw");
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "ok", "Sw", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('ok');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('ok');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("ko");
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "ok", "ko", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("success"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "success", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('ok');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('ok');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("okmB");
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "ok", "okmB", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('ok');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('ok');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("Srok");
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "ok", "Srok", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('myvoice');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('myvoice');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("mMaXhyvoice");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_message
+OUTPUT 7: MODIFY, "myvoice", "mMaXhyvoice", focus_message
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("succ"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "succ", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var mychannel = document.getElementById("mychannel");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "mychannel", "mychannel", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('myvoice');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('myvoice');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("myvoiiice");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_message
+OUTPUT 7: MODIFY, "myvoice", "myvoiiice", focus_message
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(name);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(name);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(name + "XtiQHm");
+
+OUTPUT 6: Name of the function containing the mutated line: erase_element
+OUTPUT 7: MODIFY, "", "XtiQHm", erase_element
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("mychennal");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_channel
+OUTPUT 7: MODIFY, "mychannel", "mychennal", focus_channel
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("success"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "success", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('ok');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('ok');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("oky");
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "ok", "oky", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var mychannel = document.getElementById("Upmychannel");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "mychannel", "Upmychannel", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("myiGtd");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "myiGtd", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var mychannel = document.getElementById("mychanne");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "mychannel", "mychanne", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("succes"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "succes", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var mychannel = document.getElementById("myyyychannel");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "mychannel", "myyyychannel", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(nid);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(nid);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(nid + "aIDnal");
+
+OUTPUT 6: Name of the function containing the mutated line: get_data
+OUTPUT 7: MODIFY, "", "aIDnal", get_data
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("mychlnnea");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_channel
+OUTPUT 7: MODIFY, "mychannel", "mychlnnea", focus_channel
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var mychannel = document.getElementById("mychanenl");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "mychannel", "mychanenl", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("successv"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "successv", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(nid);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(nid);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(nid + "Bbrandom");
+
+OUTPUT 6: Name of the function containing the mutated line: get_data
+OUTPUT 7: MODIFY, "", "Bbrandom", get_data
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("mychannFcPwel");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_channel
+OUTPUT 7: MODIFY, "mychannel", "mychannFcPwel", focus_channel
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("succ"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "succ", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('ok');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('ok');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("ok");
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "ok", "ok", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("myyyychannel");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_channel
+OUTPUT 7: MODIFY, "mychannel", "myyyychannel", focus_channel
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Remove
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: var m = document.getElementById('success'); m.parentNode.removeChild(m); fade(document.getElementById("success"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: CREATE, LINE 5, update_ok
+OUTPUT 8: 1
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(name);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(name);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(name + "danrom");
+
+OUTPUT 6: Name of the function containing the mutated line: erase_element
+OUTPUT 7: MODIFY, "", "danrom", erase_element
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('myvoice');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('myvoice');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("myvoiec");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_message
+OUTPUT 7: MODIFY, "myvoice", "myvoiec", focus_message
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(nid);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(nid);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(nid + "randoma");
+
+OUTPUT 6: Name of the function containing the mutated line: get_data
+OUTPUT 7: MODIFY, "", "randoma", get_data
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("bMwHmmychannel");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_channel
+OUTPUT 7: MODIFY, "mychannel", "bMwHmmychannel", focus_channel
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("myckUdXeKuEchannel");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_channel
+OUTPUT 7: MODIFY, "mychannel", "myckUdXeKuEchannel", focus_channel
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var mychannel = document.getElementById("mycha");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "mychannel", "mycha", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("md");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "md", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(name);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(name);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(name + "rannndom");
+
+OUTPUT 6: Name of the function containing the mutated line: erase_element
+OUTPUT 7: MODIFY, "", "rannndom", erase_element
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("OclDSDE"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "OclDSDE", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("ssccesu"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "ssccesu", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("succses"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "succses", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("successnGkYn"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "successnGkYn", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("mGpPpIjNsmychannel");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_channel
+OUTPUT 7: MODIFY, "mychannel", "mGpPpIjNsmychannel", focus_channel
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("mVrGyyid");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "mVrGyyid", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("succ"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "succ", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("sss"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "sss", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('myvoice');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('myvoice');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("myvoiice");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_message
+OUTPUT 7: MODIFY, "myvoice", "myvoiice", focus_message
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('myvoice');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('myvoice');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("CpJQOcg");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_message
+OUTPUT 7: MODIFY, "myvoice", "CpJQOcg", focus_message
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('ok');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('ok');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("ko");
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "ok", "ko", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById(name);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById(name);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById(name + "rnadom");
+
+OUTPUT 6: Name of the function containing the mutated line: erase_element
+OUTPUT 7: MODIFY, "", "rnadom", erase_element
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("successtKoHbO"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "successtKoHbO", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('myvoice');
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('myvoice');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("CsBwmyvoice");
+
+OUTPUT 6: Name of the function containing the mutated line: focus_message
+OUTPUT 7: MODIFY, "myvoice", "CsBwmyvoice", focus_message
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 8
+OUTPUT 2: Original source code of the getElementById Line: var myuser = document.getElementById('myid');
+
+OUTPUT 3: Line no. mutated Line: 8
+OUTPUT 4: Original source code of mutated Line: var myuser = document.getElementById('myid');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var myuser = document.getElementById("myisEmd");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "myid", "myisEmd", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 5
+OUTPUT 2: Original source code of the getElementById Line: fade(document.getElementById('success'));
+
+OUTPUT 3: Line no. mutated Line: 5
+OUTPUT 4: Original source code of mutated Line: fade(document.getElementById('success'));
+
+OUTPUT 5: Modified source code of the line that has been mutated: fade(document.getElementById("su"));
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "success", "su", update_ok
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var mychannel = document.getElementById('mychannel');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var mychannel = document.getElementById("mychannel");
+
+OUTPUT 6: Name of the function containing the mutated line: init_values
+OUTPUT 7: MODIFY, "mychannel", "mychannel", init_values
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 2
+OUTPUT 2: Original source code of the getElementById Line: var node = document.getElementById('ok');
+
+OUTPUT 3: Line no. mutated Line: 2
+OUTPUT 4: Original source code of mutated Line: var node = document.getElementById('ok');
+
+OUTPUT 5: Modified source code of the line that has been mutated: var node = document.getElementById("oook");
+
+OUTPUT 6: Name of the function containing the mutated line: update_ok
+OUTPUT 7: MODIFY, "ok", "oook", update_ok
+-----------------------------------------------------------------------------------------------------------

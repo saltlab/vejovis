@@ -1,0 +1,31 @@
+
+
+Iteration number: 232
+Successes So Far: 0
+Failures So Far: 0
+Activated So Far: 0
+Injected So Far: 232
+Number of Fix Suggestions: 1
+
+
+Iteration number: 233
+Successes So Far: 1
+Failures So Far: 0
+Activated So Far: 1
+Injected So Far: 233
+Number of Fix Suggestions: 1
+
+
+Iteration number: 234
+Successes So Far: 2
+Failures So Far: 0
+Activated So Far: 2
+Injected So Far: 234
+Number of Fix Suggestions: 1
+
+
+Iteration number: 235
+Successes So Far: 3
+Failures So Far: 0
+Activated So Far: 3
+Injected So Far: 235

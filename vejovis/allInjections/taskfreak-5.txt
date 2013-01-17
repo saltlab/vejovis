@@ -1,0 +1,941 @@
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "cIioKu");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "cIioKu", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Remove
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var m = document.getElementById(id); m.parentNode.removeChild(m); var elem = document.getElementById(id);
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: CREATE, LINE 1, gE
+OUTPUT 8: 1
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "arndom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "arndom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randomtHgOhE");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randomtHgOhE", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "Bxrandom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "Bxrandom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "raLxHgandom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "raLxHgandom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "rand");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "rand", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "rom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "rom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randdom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randdom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "imQEGq");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "imQEGq", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "nardom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "nardom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randmo");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randmo", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randombGgL");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randombGgL", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "fJarandom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "fJarandom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randorm");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randorm", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "rand");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "rand", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "random");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "random", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "rrrandom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "rrrandom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "qdaMys");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "qdaMys", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "nardom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "nardom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "radnom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "radnom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randomqKzCs");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randomqKzCs", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "FbByQgrandom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "FbByQgrandom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "aXprandom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "aXprandom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "rando");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "rando", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "random");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "random", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "rannndom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "rannndom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "ifJBrE");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "ifJBrE", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "ramdon");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "ramdon", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "radnom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "radnom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randomy");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randomy", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "dMcrandom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "dMcrandom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randoxTwm");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randoxTwm", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "ran");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "ran", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "random");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "random", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randdddom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randdddom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "BLpVlf");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "BLpVlf", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "raodnm");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "raodnm", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Remove
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var m = document.getElementById(id); m.parentNode.removeChild(m); var elem = document.getElementById(id);
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: CREATE, LINE 1, gE
+OUTPUT 8: 1
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randomlJ");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randomlJ", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Remove
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var m = document.getElementById(id); m.parentNode.removeChild(m); var elem = document.getElementById(id);
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: CREATE, LINE 1, gE
+OUTPUT 8: 1
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "ranfdom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "ranfdom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "rand");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "rand", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "ranm");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "ranm", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randoooom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randoooom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "YAxmLQ");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "YAxmLQ", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randmo");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randmo", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "ranodm");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "ranodm", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randomuVtJfT");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randomuVtJfT", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "pRmJprandom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "pRmJprandom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "hYwrandom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "hYwrandom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "ra");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "ra", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "random");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "random", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "raaaandom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "raaaandom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "sPyHEn");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "sPyHEn", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "ramdon");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "ramdon", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "radnom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "radnom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randomr");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randomr", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_start
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "BfWiTwrandom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "BfWiTwrandom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "raCandom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "raCandom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "ran");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "ran", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "ranm");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "ranm", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randdddom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randdddom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Random_3
+
+OUTPUT 1: Line no. of getElementById Line: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "ZtFKpm");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "ZtFKpm", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Tranpose
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "radnom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "radnom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Inter_adj
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "arndom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "arndom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "randomdXkN");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "randomdXkN", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Remove
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var m = document.getElementById(id); m.parentNode.removeChild(m); var elem = document.getElementById(id);
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: CREATE, LINE 1, gE
+OUTPUT 8: 1
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Add_chars_rand
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "hrandom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "hrandom", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Rem_chars_end
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "r");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "r", gE
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Remove
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var m = document.getElementById(id); m.parentNode.removeChild(m); var elem = document.getElementById(id);
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: CREATE, LINE 1, gE
+OUTPUT 8: 1
+-----------------------------------------------------------------------------------------------------------
+Mutation name: Repeat
+
+OUTPUT 1: Line no. of GEBID: 1
+OUTPUT 2: Original source code of the getElementById Line: var elem = document.getElementById(id);
+
+OUTPUT 3: Line no. mutated Line: 1
+OUTPUT 4: Original source code of mutated Line: var elem = document.getElementById(id);
+
+OUTPUT 5: Modified source code of the line that has been mutated: var elem = document.getElementById(id + "raaaandom");
+
+OUTPUT 6: Name of the function containing the mutated line: gE
+OUTPUT 7: MODIFY, "", "raaaandom", gE
+-----------------------------------------------------------------------------------------------------------

@@ -1,0 +1,1 @@
+function xajax_task_load_users(){return xajax.call("task_load_users", arguments, 1);}
